@@ -1,4 +1,4 @@
-Living in the shadows: Home Visits Report 2014 | Syrian Refugees in Jordan
+Report
 ============
 
 Inspired from http://womanalone.unhcr.org/
