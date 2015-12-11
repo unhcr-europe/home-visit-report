@@ -650,7 +650,7 @@ body.loading {
     text-align:center;
     font-family:'Times',serif;
     font-weight:400;
-    font-size:4.125em;
+    font-size:2em;
     line-height:1.5;
     padding:10px 10px 10px
 }
@@ -732,6 +732,7 @@ body.loading {
 }
 .block .body_text {
     margin:11px 9px;
+    font-weight:500;
     padding:0;
     font-size:1.2em
 }
