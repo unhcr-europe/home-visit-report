@@ -165,7 +165,7 @@ body.loading {
     z-index:1000;
     text-decoration:none;
     display:block;
-    width:110px;
+    width:380px;
     height:91px;
     padding:0;
     z-index:1002;
@@ -211,7 +211,8 @@ body.loading {
 }
 #header #header_links li a {
     color:#fff;
-    font-family:'Oswald',sans-serif;
+    /* font-family:'Oswald',sans-serif; */
+     font-family: 'Calibri Light','Gill Sans','Open Sans',Geneva,Helvetica,Arial,sans-serif;
     font-weight:400;
     line-height:1.3;
     font-size:.8em;
@@ -403,7 +404,7 @@ body.loading {
     left:20px;
     background-position:-5px -42px;
     height:31px;
-    width:261px;
+    width:550px;
     z-index:1001
 }
 #footer #unhcr_logo {
@@ -648,10 +649,12 @@ body.loading {
 .block .section_header {
     color:#fff;
     text-align:center;
-    font-family:'Times',serif;
+    /* changed the font for RRMRP Appeal in Geneva on Dec 16-2015*/
+    font-family: 'Calibri Light','Gill Sans','Open Sans',Geneva,Helvetica,Arial,sans-serif;
+    
     font-weight:400;
     font-size:2em;
-    line-height:1.5;
+    line-height:2.5;
     padding:10px 10px 10px
 }
 .block .section_header .chapter {
@@ -741,7 +744,8 @@ body.loading {
 }
 .block .body_text .donate {
     color:#f26522;
-    font-family:'Oswald',sans-serif;
+    font-family: 'Calibri Light','Gill Sans','Open Sans',Geneva,Helvetica,Arial,sans-serif;
+    /*font-family:'Oswald',sans-serif;*/
     font-weight:300;
     line-height:1.3;
     text-transform:uppercase;
@@ -795,7 +799,7 @@ body.loading {
 .line {
     font-size:0;
     line-height:0;
-    max-width:16%;
+    max-width:36%;
     margin:0 auto 10px;
     height:1px;
     background:#0077c0
