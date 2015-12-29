@@ -428,10 +428,10 @@ body.loading {
 /* class repeated for IOM logo - Dec 19th- 2015 */
 #footer #iom_logo {
     position:absolute;
-    top:0;
+    top:2;
     left:136px;
     z-index:190;
-    width:36px;
+    width:38px;
     height:31px;
     
     text-indent:-3000px;
