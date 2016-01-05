@@ -437,7 +437,7 @@ Array.prototype.unique = function() {
             var l = window.location.toString().split("#");
             l.length > 1 ? p(l[1]) : d(0)
         }
-        e("#nav ul ul a").click(function() {
+        e(".inpagenav").click(function() {
             var t = e(this).attr("href").split("#")[1],
                 n = e("#" + t);
             if (n.length > 0) {
