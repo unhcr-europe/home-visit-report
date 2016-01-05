@@ -36,7 +36,7 @@
         <script src="js/iframe_api"></script>
         <script src="js/modernizr-2.js"></script>
     </head>
-    <body class="">
+    <body>
 
     <!-- This file has been modified by Javed Khan (khanjav@unhcr.org) to adjust it to the needs as per defined by RRMRP collegauges for the Mediterranean Refugee crisis. Changed done on Dec 10th 2015 at the Geneva office in Europe Bureau-->
         <!--[if lte IE 8]>
@@ -82,13 +82,13 @@
         <nav id="nav">
             <ul class="cfx">
                 <li>
-                    <a href="index.html#partners5">
-                        <div>RRMRP Overall</div>
+                    <a href="index.html#partners5" class="inpagenav">
+                        RRMRP Overall
                     </a>
                 </li>
                 <li>
-                    <a href="index.html#objectives6">
-                        <div>RRMRP Objectives</div>
+                    <a href="index.html#objectives6" class="inpagenav">
+                        RRMRP Objectives
                     </a>
                 </li>
 
@@ -99,7 +99,7 @@
         <section>
 
             <!-- Slide 1-->
-            <div class="block_wrapper " data-image="img/img1.jpg" style="background-image: url(&quot;img/img1.jpg&quot;); display: block;">
+            <div class="block_wrapper " data-image="img/img1.jpg" style="background-image: url('img/img1.jpg');display: block;">
                 <div style="display: block;" class="block black intro" id="introduction">
                     <div class="inner">
                         <h1 class="section_header">REGIONAL REFUGEE AND MIGRANT RESPONSE PLAN 2016</h1>
@@ -115,7 +115,7 @@
             <!-- end of Slide 1-->
 
             <!-- Slide 2-->
-            <div class="block_wrapper  white" data-image="img/img2.jpg" style="background-image: url(&quot;img/img2.jpg&quot;); display: none;">
+            <div class="block_wrapper  white" data-image="img/img2.jpg" style="background-image: url('img/img2.jpg');display: none;">
                 <div class="block  white  " id="overview">
                     <div class="inner " style="height: 947px;">
                         <div class="inner_cell">
@@ -136,7 +136,7 @@
 
 
         <!-- Slide 3  -->
-            <div class="block_wrapper  white" data-image="img/img3.jpg" style="background-image: url(&quot;img/img3.jpg&quot;); display: none;">
+            <div class="block_wrapper  white" data-image="img/img3.jpg" style="background-image: url('img/img3.jpg'); display: none;">
                 <div class="block quote start">
                     <div style="height: 741px;" class="inner ">
                         <div class="inner_cell">
@@ -153,7 +153,7 @@
 
             <!-- Slide 4  -->
 
-             <div class="block_wrapper  white" data-image="img/img4.jpg" style="background-image: url(&quot;img/img4.jpg&quot;); display: none;">
+             <div class="block_wrapper  white" data-image="img/img4.jpg" style="background-image: url('img/img4.jpg'); display: none;">
                 <div class="block quote start">
                     <div style="height: 741px;" class="inner ">
                         <div class="inner_cell">
@@ -173,8 +173,8 @@
 
 
             <!-- Slide 5  Partners Logos-->
-            <div class="block_wrapper  white" data-image="img/img5.jpg" style="background-image: url(&quot;img/img5.jpg&quot;); display: none;">
-                <div class="block quote start" id="partners5">
+            <div class="block_wrapper  white" data-image="img/img5.jpg" style="background-image: url('img/img5.jpg'); display: none;"  id="partners5">
+                <div class="block quote start">
                     <div style="height: 741px;" class="inner ">
                         <div class="inner_cell">
                             <div class="body_text">
@@ -192,15 +192,14 @@
 
 
             <!-- Slide 6   Strategic Objectives-->
-            <div class="block_wrapper  white" data-image="img/img6.jpg" style="background-image: url(&quot;img/img6.jpg&quot;); display: none;">
+            <div class="block_wrapper  white" data-image="img/img6.jpg" style="background-image: url('img/img6.jpg'); display: none;">
                 <div class="block quote start" id="objectives6">
                     <div style="height: 800px;" class="inner ">
                         <div class="inner_cell">
                             <div class="body_text">
                                 <p>The <span style="font-weight:bold">Strategic Goals</span> of the RRMP are to:</p>
-                                <p>
                                     <ol>
-                                        <!--<li>1. Build and complement Government capacity to respond. (active hyperlink).</li> 
+                                        <!--<li>1. Build and complement Government capacity to respond. (active hyperlink).</li>
                                         <li>2. Protect and assist refugee and migrant women, girls, boys and men.</li>
                                         <li>3. Provide access to asylum and solutions.</li>
                                         <li>4. Ensure a coordinated and efficient response.</li>
@@ -211,9 +210,7 @@
                                         <li><a href="index.html#slide9"><div>3. Provide access to asylum and solutions.</div></a></li>
                                         <li><a href="index.html#slide10"><div>4. Ensure a coordinated and efficient response.</div></a></li>
 
-
                                     </ol>
-                                </p><br>
                             </div>
                         </div>
                         <div class="next">CLICK TO NAVIGATE<span class="red_arrow"></span>
@@ -225,14 +222,17 @@
 
        <!-- Slide 7  -->
 
-             <div class="block_wrapper  white" data-image="img/img7.jpg" style="background-image: url(&quot;img/img7.jpg&quot;); display: none;">
+             <div class="block_wrapper  white" data-image="img/img7.jpg" style="background-image: url('img/img7.jpg'); display: none;">
                 <div class="block quote start" id="slide7">
                     <div style="height: 741px;" class="inner ">
                         <div class="inner_cell">
                             <div class="body_text">
-                                <p><span style="font-weight:bold">Strategic Goal One:</span> To design and implement a response that supports and complements Governments’ existing capacities to manage migration and ensure effective access to asylum and solutions for those in need of international protection, while at the same time investing in and building this capacity.</p></br>
+                                <p><span style="font-weight:bold">Strategic Goal One:</span> To design and implement a response
+                                  that supports and complements Governments’ existing capacities to manage migration
+                                  and ensure effective access to asylum and solutions for those in need of international protection, while at the same time investing in and building this capacity.</p><br />
 
-                                <p><a target="_blank" href="http://tracks.unhcr.org/2015/11/once-a-refugee-now-a-helping-hand/">Government personnel</a> have been on the front line helping refugees and migrants. The RRMRP will ensure that additional capacity building and support is available to further these efforts.</p></br>
+                                <p><a target="_blank"
+                                  href="http://tracks.unhcr.org/2015/11/once-a-refugee-now-a-helping-hand/">Government personnel</a> have been on the front line helping refugees and migrants. The RRMRP will ensure that additional capacity building and support is available to further these efforts.</p><br />
                             </div>
                         </div>
                         <div class="next">CLICK TO NAVIGATE<span class="red_arrow"></span>
@@ -245,14 +245,16 @@
 
     <!-- Slide 8  -->
 
-             <div class="block_wrapper  white" data-image="img/img8.jpg" style="background-image: url(&quot;img/img8.jpg&quot;); display: none;">
+             <div class="block_wrapper  white" data-image="img/img8.jpg" style="background-image: url('img/img8.jpg'); display: none;">
                 <div class="block quote start" id="slide8">
                     <div style="height: 741px;" class="inner ">
                         <div class="inner_cell">
                             <div class="body_text">
-                                <p><span style="font-weight:bold">Strategic Goal Two:</span> To ensure that refugee and migrant women, girls, boys and men access protection and assistance in a participatory manner, with particular attention to specific needs. Protection-centred assistance should be delivered in a manner that respects age, gender and diversity and is appropriate to the specific characteristics of the movement.</p></br>
+                                <p><span style="font-weight:bold">Strategic Goal Two:</span> To ensure that refugee and migrant
+                                  women, girls, boys and men access protection and assistance in a participatory
+                                  manner, with particular attention to specific needs. Protection-centred assistance should be delivered in a manner that respects age, gender and diversity and is appropriate to the specific characteristics of the movement.</p><br />
 
-                                <p><a target="_blank" href="http://tracks.unhcr.org/2015/10/a-miserable-wait/">Vulnerable refugees and migrants</a> are in urgent need of protection and assistance, and are increasingly at risk of exploitation. </p></br>
+                                <p><a target="_blank" href="http://tracks.unhcr.org/2015/10/a-miserable-wait/">Vulnerable refugees and migrants</a> are in urgent need of protection and assistance, and are increasingly at risk of exploitation. </p><br />
                             </div>
                         </div>
                         <div class="next">CLICK TO NAVIGATE<span class="red_arrow"></span>
@@ -264,14 +266,14 @@
 
     <!-- Slide 9  -->
 
-             <div class="block_wrapper  white" data-image="img/img9.jpg" style="background-image: url(&quot;img/img9.jpg&quot;); display: none;">
+             <div class="block_wrapper  white" data-image="img/img9.jpg" style="background-image: url('img/img9.jpg'); display: none;">
                 <div class="block quote start" id="slide9">
                     <div style="height: 741px;" class="inner ">
                         <div class="inner_cell">
                             <div class="body_text">
-                                <p><span style="font-weight:bold">Strategic Goal Three:</span> To strengthen national capacities and protection systems and ensure access to longer-term solutions for refugees and migrants who may become stranded or may want to avail themselves of the protection of these countries.</p></br>
+                                <p><span style="font-weight:bold">Strategic Goal Three:</span> To strengthen national capacities and protection systems and ensure access to longer-term solutions for refugees and migrants who may become stranded or may want to avail themselves of the protection of these countries.</p><br />
 
-                                <p>With some refugees and migrants <a target="_blank" href="http://tracks.unhcr.org/2015/12/nakouts-great-escape">becoming stranded on route,</a> alternative solutions, including access to asylum, humanitarian admission, family reunification, and voluntary return, are needed.</p></br>
+                                <p>With some refugees and migrants <a target="_blank" href="http://tracks.unhcr.org/2015/12/nakouts-great-escape">becoming stranded on route,</a> alternative solutions, including access to asylum, humanitarian admission, family reunification, and voluntary return, are needed.</p><br />
                             </div>
                         </div>
                         <div class="next">CLICK TO NAVIGATE<span class="red_arrow"></span>
@@ -283,13 +285,17 @@
 
 
     <!-- Slide 10 img10 - - last slide -->
-    <div class="block_wrapper white last" data-image="img/img10.jpg" style="background-image: url(&quot;img/img10.jpg&quot;); display: none;">
+    <div class="block_wrapper white last" data-image="img/img10.jpg" style="background-image: url('img/img10.jpg'); display: none;">
             <div class="block quote start" id="slide10">
                 <div style="height: 741px;" class="inner ">
                     <div class="inner_cell">
                         <div class="body_text">
-                                <p><span style="font-weight:bold">Strategic Goal Four:</span>To strengthen partnership and coordination within the humanitarian community and with governments, both in setting common goals and in establishing national-level coordination structures and information analysis, that ensure an efficient and coordinated response.</p></br>
-                                <p>The humanitarian spirit shown by volunteers and organizations has been outstanding in 2015. In 2016, the RRMRP aims to move towards a more <a target="_blank" href="https://www.youtube.com/watch?v=d1DDwr_UgoU">structured response.</a></p></br>
+                                <p><span style="font-weight:bold">Strategic Goal Four:</span>To strengthen partnership and
+                                  coordination within the humanitarian community and with governments, both in
+                                  setting common goals and in establishing national-level coordination structures and information analysis, that ensure an efficient and coordinated response.</p><br />
+                                <p>The humanitarian spirit shown by volunteers and organizations has been outstanding
+                                  in 2015. In 2016, the RRMRP aims to move towards a more <a target="_blank"
+                                    href="https://www.youtube.com/watch?v=d1DDwr_UgoU">structured response.</a></p><br />
 
                             <div class="line"></div>
                         </div>
@@ -354,10 +360,10 @@
             </div>
         </div>
 
-        <script src="js/jquery.js"></script>
-        <script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.11.0.js"><\/script>')</script>
         <script>
-            var players = []
+            var players = [];
             var tag = document.createElement('script');
 
               tag.src = "https://www.youtube.com/iframe_api";
