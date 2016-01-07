@@ -294,8 +294,8 @@ body.loading {
     left:32%;
     z-index:200;
     width:36%
-    
-    
+
+
 }
 #nav.open ul {
     -moz-transform:translateX(0) translateY(0);
@@ -433,7 +433,7 @@ body.loading {
     z-index:190;
     width:100px;
     height:31px;
-    
+
     text-indent:-4000px;
     overflow:hidden
 }
@@ -528,7 +528,7 @@ body.loading {
 */
 /* red_arrow2 class is used for showing the upward arrow navigation icon*/
 
-/*  
+/*
 .red_arrow2 {
     display:block;
     width:26px;
@@ -760,7 +760,7 @@ body.loading {
     text-align:center;
     /* changed the font for RRMRP Appeal in Geneva on Dec 16-2015*/
     font-family: 'Calibri Light','Gill Sans','Open Sans',Geneva,Helvetica,Arial,sans-serif;
-    
+
     font-weight:400;
     font-size:2em;
     line-height:2.5;
@@ -1079,7 +1079,8 @@ span.sharer {
     background-image:url("../img/sprite_x2.png") !important
 }
 #footer {
-    background-image:url("../img/logo.png") !important
+    background-image:url("../img/logo.png") !important;
+    background-repeat: none;
 }
 
 
