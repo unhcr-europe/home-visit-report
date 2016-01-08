@@ -1,302 +1,302 @@
 Agency,AgencyFull,Country,Total,FirstHalf,SecondHalf,SubSector,Sector,AgencyType,Ccode
-IOM ,IOM International Ogranization for Migration,Greece,7300000,3650000,3650000,Camp management,Shelter and NFIs,IOM,Greece
-UNICEF ,UNICEF United Nations Children's Fund  ,Regional,4860000,2800000,2060000,Child Protection,Protection,UN,Regional
-ARSIS,ARSIS Association for the Social Support of Youth ,Greece,934889,347288,587601,Child Protection,Protection,NGO,Greece
-Caritas Hellas,Caritas Hellas,Greece,43793,21896,21896,Child Protection,Protection,NGO,Greece
-PRAKSIS,PRAKSIS Projects of Development Social Support and Medical Cooperation ,Greece,3389621,1009090,2380531,Child Protection,Protection,NGO,Greece
-SCI ,SCI Save the Children,Greece,5137715,2647429,2490286,Child Protection,Protection,INGO,Greece
-UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,1500000,750000,750000,Child Protection,Protection,UN,Turkey
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1850000,925000,925000,Child Protection,Protection,UN,Macedonia
-Internews,Internews,Greece,1404245,468435,935810,Communication with Communities,Protection,INGO,Greece
-Solidarity Now,Solidarity Now,Greece,393169,302940,90230,Communication with Communities,Protection,NGO,Greece
-NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,260719,116645,144074,Community Services,Protection,NGO,Greece
-UNICEF ,UNICEF United Nations Children's Fund  ,Regional,1158000,600000,558000,Coordination,Protection,UN,Regional
-SLOGA ,SLOGA Slovenian Development and Humanitarian NGO Platform,Slovenia,169000,82000,87000,Coordination,Protection,NGO,Slovenia
-ARSIS,ARSIS Association for the Social Support of Youth ,Greece,192258,79301,112957,Education,Protection,NGO,Greece
-NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,318349,116645,201704,Education,Protection,NGO,Greece
-UNICEF ,UNICEF United Nations Children's Fund  ,Greece,790000,395000,395000,Education,Protection,UN,Greece
-CARE International,CARE International,Serbia,400000,300000,100000,Food,Food,INGO,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,1407198,703599,703599,Food,Food,UN,Serbia
-ARSIS,ARSIS Association for the Social Support of Youth ,Greece,59121,19058,40063,Food,Food,NGO,Greece
-Caritas Athens,Caritas Athens,Greece,97311,45920,51390,Food,Food,NGO,Greece
-Caritas Hellas,Caritas Hellas,Greece,99984,49992,49992,Food,Food,NGO,Greece
-Human Appeal,Human Appeal,Greece,1701500,850750,850750,Food,Food,INGO,Greece
-ICMC,ICMC International Catholic Migration Commission ,Greece,157576,78788,78788,Food,Food,INGO,Greece
-Mercy Corps,Mercy Corps,Greece,1489989,1489989,,Food,Food,INGO,Greece
-NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,650932,218710,432222,Food,Food,NGO,Greece
-OXFAM,Oxfam,Greece,1075263,628612,446650,Food,Food,INGO,Greece
-PRAKSIS,PRAKSIS Projects of Development Social Support and Medical Cooperation ,Greece,6671526,3343248,3328278,Food,Food,NGO,Greece
-SCI ,SCI Save the Children,Greece,4852172,2176086,2676086,Food,Food,INGO,Greece
-Croatian Red Cross,Croatian Red Cross,Croatia,46979,23490,23490,Food,Food,NGO,Croatia
-ADRA ,ADRA Adventist Development and Relief Agency,fYR Macedonia,345740,172870,172870,Food,Food,INGO,Macedonia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,796327,398163,398163,Food,Food,UN,Macedonia
-ADRA ,ADRA Adventist Development and Relief Agency,Slovenia,128751,48281,80470,Food,Food,INGO,Slovenia
-Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia,171480,97989,73491,Food,Food,NGO,Slovenia
-EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia,208307,104153,104153,Food,Food,NGO,Slovenia
-Slovenian Red Cross,Slovenian Red Cross ,Slovenia,148649,74324,74324,Food Assistance ,Food,NGO,Slovenia
-Dorcas,Dorcas,fYR Macedonia,1260000,630000,630000,Food Distribution,Food,INGO,Macedonia
-Legis,Legis,fYR Macedonia,953079,476539,476539,Food Distribution,Food,INGO,Macedonia
-AGAPE,Agape,fYR Macedonia,547500,273750,273750,Food Distribution,Food,NGO,Macedonia
-Operation Mercy,Operation Mercy,fYR Macedonia,21166,21166, -   ,Food Distribution,Food,NGO,Macedonia
-Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,fYR Macedonia,211850,105925,105925,Food Distribution,Food,INGO,Macedonia
-Nun Kultura,Nun Kultura,fYR Macedonia,1261975,630988,630988,Food Distribution,Food,NGO,Macedonia
-La Strada,La Strada,fYR Macedonia,174419,87209,87209,Food Distribution,Food,INGO,Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,802551,427273,375278,Food Distribution,Food,NGO,Macedonia
-Catholic Relief Services,Catholic Relief Services,fYR Macedonia,40000,20000,20000,Food Distribution,Food,INGO,Macedonia
+ADRA ,ADRA Adventist Development and Relief Agency,Regional,100000,50000,50000,Protection,Protection,INGO,Regional
 ADRA ,ADRA Adventist Development and Relief Agency,Regional,50000,25000,25000,Health,Health and Nutrition,INGO,Regional
-Help-Hilfe ,Help-Hilfe zur Selbsthilfe e. V.,Serbia,536630,404870,131760,Health,Health and Nutrition,INGO,Serbia
+ADRA ,ADRA Adventist Development and Relief Agency,Regional,100000,50000,50000,NFIs,Shelter and NFIs,INGO,Regional
+IOM ,IOM International Organization for Migration,Regional,8745000,4372500,4372500,Protection,Protection,IOM,Regional
+IOM ,IOM International Organization for Migration,Regional,1500000,750000,750000,Health and Nutrition,Health and Nutrition,IOM,Regional
+IOM ,IOM International Organization for Migration,Regional,1000000,500000,500000,Shelter and NFIs,Shelter and NFIs,IOM,Regional
+IOM ,IOM International Organization for Migration,Regional,3000000,1500000,1500000,Operational Support,Operational Support,IOM,Regional
+OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Regional,190462,95231,95231,Protection,Protection,UN,Regional
+UNDP ,UNDP United Nations Development Programme,Regional,500000,250000,250000,Local Community Support,Local Community Support,UN,Regional
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,32561506,16280753,16280753,Protection,Protection,UN,Regional
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,20000000,10000000,10000000,NFIs,Shelter and NFIs,UN,Regional
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,3679305.42,1839652.71,1839652.71,Operational Support,Operational Support,UN,Regional
+UNICEF ,UNICEF United Nations Children's Fund  ,Regional,1158000,600000,558000,Coordination,Protection,UN,Regional
+UNICEF ,UNICEF United Nations Children's Fund  ,Regional,4860000,2800000,2060000,Child Protection,Protection,UN,Regional
+UNICEF ,UNICEF United Nations Children's Fund  ,Regional,400000,200000,200000,Health and Nutrition,Health and Nutrition,UN,Regional
+UNICEF ,UNICEF United Nations Children's Fund  ,Regional,470000,300000,170000,WASH and NFIs,WASH,UN,Regional
+UNV,UNV United Nations Volunteers,Regional,660000,220000,440000,Protection,Protection,UN,Regional
+WHO ,WHO World Health Organization,Regional,160000,80000,80000,Health ,Health and Nutrition,UN,Regional
+UNOPS ,UNOPS United Nations Office for Project Services,Serbia,960000,768000,192000,Shelter and Infrastructure,Shelter and NFIs,UN,Serbia
+CARE International,CARE International,Serbia,88528.3,88528.3,0,Shelter and Infrastructure,Shelter and NFIs,INGO,Serbia
+Mercy Corps,Mercy Corps,Serbia,1045040,230292.3,814747.7,Shelter and Infrastructure,Shelter and NFIs,INGO,Serbia
+IOM ,IOM International Organization for Migration,Serbia,1410000,755000,655000,Protection,Protection,IOM,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,3828295.2,1914147.6,1914147.6,Protection,Protection,UN,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,2922641.6,1461320.8,1461320.8,Shelter and Infrastructure,Shelter and NFIs,UN,Serbia
+SOS Children's Villages Serbia,SOS Children's Villages Serbia,Serbia,339950,203950,136000,NFIs,Shelter and NFIs,INGO,Serbia
+ADRA ,ADRA Adventist Development and Relief Agency,Serbia,591106.2,295553.1,295553.1,Protection,Protection,INGO,Serbia
+Foundation Ana and Vlade Divac,Foundation Ana and Vlade Divac,Serbia,695988.4,347994.2,347994.2,NFIs,Shelter and NFIs,NGO,Serbia
+SCI ,SCI Save the Children,Serbia,1054548.7,245260.4,809288.3,Protection ,Protection,INGO,Serbia
+DRC,DRC Danish Refugee Council,Serbia,597955.1,318864.7,279090.4,Protection,Protection,INGO,Serbia
+Help-Hilfe ,Help-Hilfe zur Selbsthilfe e. V.,Serbia,573370.1,305754.5,267615.6,NFIs,Shelter and NFIs,INGO,Serbia
+OXFAM,Oxfam,Serbia,1500000,1131702,368298,NFIs,Shelter and NFIs,INGO,Serbia
+Arche Nova,Arche Nova,Serbia,172266.7,91862.7,80404,NFIs,Shelter and NFIs,INGO,Serbia
+CARE International,CARE International,Serbia,323971.7,242978.8,80992.9,NFIs,Shelter and NFIs,INGO,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,649476,324738,324738,NFIs,Shelter and NFIs,UN,Serbia
+Foundation Ana and Vlade Divac,Foundation Ana and Vlade Divac,Serbia,195669.8,97834.9,97834.9,WASH,WASH,NGO,Serbia
+IMC ,IMC International Medical Corps,Serbia,1036489.5,549339.4,487150.1,WASH,WASH,INGO,Serbia
+DRC,DRC Danish Refugee Council,Serbia,110367.5,58854.4,51513.1,Health ,Health and Nutrition,INGO,Serbia
+Arche Nova,Arche Nova,Serbia,302733.3,161435.1,141298.2,WASH,WASH,INGO,Serbia
+CARE International,CARE International,Serbia,287500,215625,71875,WASH,WASH,INGO,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,865967.8,432983.9,432983.9,WASH,WASH,UN,Serbia
+CARE International,CARE International,Serbia,400000,300000,100000,Food,Food,INGO,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,1407197.8,703598.9,703598.9,Food,Food,UN,Serbia
+INTERSOS,INTERSOS,Serbia,360000,271608.5,88391.5,Protection,Protection,INGO,Serbia
+BCHR,BCHR Belgrade Center for Human Rights ,Serbia,54000,28796,25204,Protection,Protection,NGO,Serbia
+ADRA ,ADRA Adventist Development and Relief Agency,Serbia,354663.8,177331.9,177331.9,NFIs,Shelter and NFIs,INGO,Serbia
+HCIT,HCIT Humanitarian Center for Integration and Tolerance ,Serbia,240000,127982.1,112017.9,Protection,Protection,NGO,Serbia
+UNICEF ,UNICEF United Nations Children's Fund  ,Serbia,2019999.7,1524025,495974.7,Protection,Protection,UN,Serbia
+DRC,DRC Danish Refugee Council,Serbia,101169.9,31036.9,70133,Shelter and NFIs,Shelter and NFIs,NGO,Serbia
+UN Women,UN Women,Serbia,615168,464124.6,151043.4,Protection,Protection,UN,Serbia
+IRC ,IRC International Rescue Committee,Serbia,1500000,799887.8,700112.2,Protection,Protection,INGO,Serbia
+SCI ,SCI Save the Children,Serbia,2690451.3,1823753.2,866698.1,NFIs,Shelter and NFIs,INGO,Serbia
+IOM ,IOM International Organization for Migration,Serbia,260000,130000,130000,Shelter and Infrastructure,Shelter and NFIs,IOM,Serbia
+DRC,DRC Danish Refugee Council,Serbia,227304.4,116857.4,110447,WASH,WASH,INGO,Serbia
+Help-Hilfe ,Help-Hilfe zur Selbsthilfe e. V.,Serbia,536629.9,404870.1,131759.8,Health,Health and Nutrition,INGO,Serbia
 Children and Youth Support Organisation,Children and Youth Support Organisation,Serbia,260000,130000,130000,Health,Health and Nutrition,NGO,Serbia
+UNICEF ,UNICEF United Nations Children's Fund  ,Serbia,900000,610075.3,289924.7,NFIs,Shelter and NFIs,UN,Serbia
 UNICEF ,UNICEF United Nations Children's Fund  ,Serbia,700000,400000,300000,Health,Health and Nutrition,UN,Serbia
-IMC ,IMC International Medical Corps,Serbia,2490081,1280153,1209928,Health,Health and Nutrition,INGO,Serbia
+IMC ,IMC International Medical Corps,Serbia,2490080.5,1280152.5,1209928,Health,Health and Nutrition,INGO,Serbia
 UNFPA ,UNFPA United Nations Population Fund,Serbia,500000,250000,250000,Health,Health and Nutrition,UN,Serbia
 UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,432984,216492,216492,Health,Health and Nutrition,UN,Serbia
 WHO ,WHO World Health Organization,Serbia,607475,350000,257475,Health,Health and Nutrition,UN,Serbia
-Human Appeal,Human Appeal,Greece,785800,392900,392900,Health,Health and Nutrition,INGO,Greece
-IMC ,IMC International Medical Corps,Greece,2607140,1303570,1303570,Health,Health and Nutrition,INGO,Greece
-PRAKSIS,PRAKSIS Projects of Development Social Support and Medical Cooperation ,Greece,2118753,933612,1185141,Health,Health and Nutrition,NGO,Greece
-MDM Medecins du Monde,MDM Medecins du Monde,Greece,7407757,4444654,2963103,Health,Health and Nutrition,NGO,Greece
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,2081460,1040730,1040730,Health,Health and Nutrition,UN,Greece
-UNICEF ,UNICEF United Nations Children's Fund  ,Greece,130000,72000,58000,Health,Health and Nutrition,UN,Greece
-CARE International,CARE International,Croatia,326570,98747,227823,Health,Health and Nutrition,INGO,Croatia
-UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,900000,450000,450000,Health,Health and Nutrition,UN,Croatia
-WHO ,WHO World Health Organization,Croatia,800000,400000,400000,Health,Health and Nutrition,UN,Croatia
-IOM ,IOM International Ogranization for Migration,Croatia,1250000,625000,625000,Health,Health and Nutrition,IOM,Croatia
-IOM ,IOM International Ogranization for Migration,Turkey,2000000,1000000,1000000,Health,Health and Nutrition,IOM,Turkey
-WHO ,WHO World Health Organization,Turkey,2000000,750000,1250000,Health,Health and Nutrition,UN,Turkey
-UNFPA ,UNFPA United Nations Population Fund,Turkey,600000,300000,300000,Health,Health and Nutrition,UN,Turkey
-WHO ,WHO World Health Organization,fYR Macedonia,650000,374500,275500,Health,Health and Nutrition,UN,Macedonia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1600000,800000,800000,Health,Health and Nutrition,UN,Macedonia
-UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,402000,200000,202000,Health,Health and Nutrition,UN,Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,427879,267045,160833,Health,Health and Nutrition,NGO,Macedonia
-IOM ,IOM International Ogranization for Migration,fYR Macedonia,211640,211640, -   ,Health,Health and Nutrition,IOM,Macedonia
-IOM ,IOM International Ogranization for Migration,fYR Macedonia,125000,125000, -   ,Health,Health and Nutrition,IOM,Macedonia
-WHO ,WHO World Health Organization,Regional,160000,80000,80000,Health ,Health and Nutrition,UN,Regional
-DRC,DRC Danish Refugee Council,Serbia,110368,58854,51513,Health ,Health and Nutrition,INGO,Serbia
-ADRA ,ADRA Adventist Development and Relief Agency,Serbia,144230,144230, -   ,Health ,Health and Nutrition,INGO,Serbia
-SCI ,SCI Save the Children,Croatia,911372,546824,364549,Health ,Health and Nutrition,INGO,Croatia
-Slovenian Red Cross,Slovenian Red Cross ,Slovenia,178378,89189,89189,Health ,Health and Nutrition,NGO,Slovenia
-WAHA ,WAHA Women and Health Alliance International,Slovenia,723450,415779,307671,Health ,Health and Nutrition,INGO,Slovenia
-IOM ,IOM International Ogranization for Migration,Regional,1500000,750000,750000,Health and Nutrition,Health and Nutrition,IOM,Regional
-UNICEF ,UNICEF United Nations Children's Fund  ,Regional,400000,200000,200000,Health and Nutrition,Health and Nutrition,UN,Regional
-ISRAAID,IsraAID,Greece,400456,200228,200228,Health and Nutrition,Protection,INGO,Greece
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,1300595,650298,650298,Health and Nutrition,Health and Nutrition,UN,Macedonia
-Caritas Slovenia,Caritas Slovenia ,Slovenia,775750,775750,,Health and Nutrition,Health and Nutrition,NGO,Slovenia
-Slovenian Philanthropy,Slovenian Philanthropy ,Slovenia,30439,15220,15220,Health and Nutrition,Health and Nutrition,NGO,Slovenia
-IOM ,IOM International Ogranization for Migration,Slovenia,600000,300000,300000,Health and Nutrition,Health and Nutrition,IOM,Slovenia
-UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,216000,108000,108000,Hygiene,WASH,UN,Macedonia
-DRC,DRC Danish Refugee Council,fYR Macedonia,41176,41176, -   ,Hygiene,WASH,INGO,Macedonia
-Legis,Legis,fYR Macedonia,372944,186472,186472,Hygiene,WASH,INGO,Macedonia
-Nun Kultura,Nun Kultura,fYR Macedonia,108000,54000,54000,Hygiene,WASH,NGO,Macedonia
-La Strada,La Strada,fYR Macedonia,69767,34884,34884,Hygiene,WASH,INGO,Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,374470,213636,160833,Hygiene,WASH,NGO,Macedonia
-Caritas Athens,Caritas Athens,Greece,50695,50695, -   ,Hygiene kits,WASH,NGO,Greece
-Operation Mercy,Operation Mercy,fYR Macedonia,37041,37041, -   ,Infrastructure,Shelter and NFIs,NGO,Macedonia
-UNDP ,UNDP United Nations Development Programme,fYR Macedonia,5200000,2700000,2500000,Livelihoods/Host Community Resilience,Local Community Support,UN,Macedonia
-UNDP ,UNDP United Nations Development Programme,Regional,500000,250000,250000,Local Community Support,Local Community Support,UN,Regional
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,1948428,974214,974214,Logistics and Transport,Logistics and Transport,UN,Serbia
-IOM ,IOM International Ogranization for Migration,Serbia,800000,400000,400000,Logistics and Transport,Logistics and Transport,IOM,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,6627513,3313757,3313757,Logistics and Transport,Logistics and Transport,UN,Greece
-Croatian Red Cross,Croatian Red Cross,Croatia,1398721,1044445,354275,Logistics and Transport,Logistics and Transport,NGO,Croatia
-IOM ,IOM International Ogranization for Migration,Croatia,1000000,500000,500000,Logistics and Transport,Logistics and Transport,IOM,Croatia
-ADRA ,ADRA Adventist Development and Relief Agency,Slovenia,4691,2345,2345,Logistics and Transport,Logistics and Transport,INGO,Slovenia
-Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia,53690,30213,23476,Logistics and Transport,Logistics and Transport,NGO,Slovenia
-EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia,82376,41188,41188,Logistics and Transport,Logistics and Transport,NGO,Slovenia
-Slovenian Red Cross,Slovenian Red Cross ,Slovenia,118919,59459,59459,Logistics and Transport,Logistics and Transport,NGO,Slovenia
-IOM ,IOM International Ogranization for Migration,Slovenia,800000,400000,400000,Logistics and Transport,Logistics and Transport,IOM,Slovenia
-Caritas Athens,Caritas Athens,Greece,75132,75132, -   ,NFI,Shelter and NFIs,NGO,Greece
-Caritas Hellas,Caritas Hellas,Greece,861381,430691,430691,NFI,Shelter and NFIs,NGO,Greece
-IMC ,IMC International Medical Corps,Greece,1656890,828445,828445,NFI,Shelter and NFIs,INGO,Greece
-OXFAM,Oxfam,Greece,2280034,1131504,1148530,NFI,Shelter and NFIs,INGO,Greece
-ADRA ,ADRA Adventist Development and Relief Agency,Regional,100000,50000,50000,NFIs,Shelter and NFIs,INGO,Regional
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,20000000,10000000,10000000,NFIs,Shelter and NFIs,UN,Regional
-SOS Children's Villages Serbia,SOS Children's Villages Serbia,Serbia,339950,203950,136000,NFIs,Shelter and NFIs,INGO,Serbia
-Foundation Ana and Vlade Divac,Foundation Ana and Vlade Divac,Serbia,695988,347994,347994,NFIs,Shelter and NFIs,NGO,Serbia
-Help-Hilfe ,Help-Hilfe zur Selbsthilfe e. V.,Serbia,573370,305755,267616,NFIs,Shelter and NFIs,INGO,Serbia
-OXFAM,Oxfam,Serbia,1500000,1131702,368298,NFIs,Shelter and NFIs,INGO,Serbia
-Arche Nova,Arche Nova,Serbia,172267,91863,80404,NFIs,Shelter and NFIs,INGO,Serbia
-CARE International,CARE International,Serbia,323972,242979,80993,NFIs,Shelter and NFIs,INGO,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,649476,324738,324738,NFIs,Shelter and NFIs,UN,Serbia
-ADRA ,ADRA Adventist Development and Relief Agency,Serbia,354664,177332,177332,NFIs,Shelter and NFIs,INGO,Serbia
-SCI ,SCI Save the Children,Serbia,2690451,1823753,866698,NFIs,Shelter and NFIs,INGO,Serbia
-UNICEF ,UNICEF United Nations Children's Fund  ,Serbia,900000,610075,289925,NFIs,Shelter and NFIs,UN,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,14268278,7134139,7134139,NFIs,Shelter and NFIs,UN,Greece
-Croatian Red Cross,Croatian Red Cross,Croatia,735176,441451,293724,NFIs,Shelter and NFIs,NGO,Croatia
-Samaritan Purse,Samaritan Purse,Croatia,2803884,1776643,1027241,NFIs,Shelter and NFIs,INGO,Croatia
-ADRA ,ADRA Adventist Development and Relief Agency,Croatia,467775,220000,247775,NFIs,Shelter and NFIs,INGO,Croatia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Turkey,1376000,688000,688000,NFIs,Shelter and NFIs,UN,Turkey
-IOM ,IOM International Ogranization for Migration,Turkey,10000000,5000000,5000000,NFIs,Shelter and NFIs,IOM,Turkey
-UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,1000000,500000,500000,NFIs,Shelter and NFIs,UN,Turkey
-UNFPA ,UNFPA United Nations Population Fund,Turkey,1000000,500000,500000,NFIs,Shelter and NFIs,UN,Turkey
-DRC,DRC Danish Refugee Council,fYR Macedonia,141176,141176, -   ,NFIs,Shelter and NFIs,INGO,Macedonia
-Legis,Legis,fYR Macedonia,517978,258989,258989,NFIs,Shelter and NFIs,INGO,Macedonia
-Operation Mercy,Operation Mercy,fYR Macedonia,26453,26453, -   ,NFIs,Shelter and NFIs,NGO,Macedonia
-Nun Kultura,Nun Kultura,fYR Macedonia,374300,187150,187150,NFIs,Shelter and NFIs,NGO,Macedonia
-La Strada,La Strada,fYR Macedonia,174419,87209,87209,NFIs,Shelter and NFIs,INGO,Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,535101,267045,268056,NFIs,Shelter and NFIs,NGO,Macedonia
-Catholic Relief Services,Catholic Relief Services,fYR Macedonia,400000,200000,200000,NFIs,Shelter and NFIs,INGO,Macedonia
-IOM ,IOM International Ogranization for Migration,Slovenia,1000000,500000,500000,NFIs,Shelter and NFIs,IOM,Slovenia
-ARSIS,ARSIS Association for the Social Support of Youth ,Greece,140715,33881,106834,Nutrition,Health and Nutrition,NGO,Greece
-Caritas Athens,Caritas Athens,Greece,36168,15437,20731,Nutrition,Health and Nutrition,NGO,Greece
-SCI ,SCI Save the Children,Greece,1217143,608571,608571,Nutrition,Health and Nutrition,INGO,Greece
-IOM ,IOM International Ogranization for Migration,Regional,3000000,1500000,1500000,Operational Support,Operational Support,IOM,Regional
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,3679305,1839653,1839653,Operational Support,Operational Support,UN,Regional
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,1948427.8,974213.9,974213.9,Logistics and Transport,Logistics and Transport,UN,Serbia
+IOM ,IOM International Organization for Migration,Serbia,800000,400000,400000,Logistics and Transport,Logistics and Transport,IOM,Serbia
+ADRA ,ADRA Adventist Development and Relief Agency,Serbia,144229.9,144229.9,0,Health ,Health and Nutrition,INGO,Serbia
 UNICEF ,UNICEF United Nations Children's Fund  ,Serbia,545000,280000,265000,Operational Support,Operational Support,UN,Serbia
 UNOPS ,UNOPS United Nations Office for Project Services,Serbia,40000,32000,8000,Operational Support,Operational Support,UN,Serbia
 Children and Youth Support Organisation,Children and Youth Support Organisation,Serbia,80000,40000,40000,Operational Support,Operational Support,NGO,Serbia
 UNFPA ,UNFPA United Nations Population Fund,Serbia,40000,20000,20000,Operational Support,Operational Support,UN,Serbia
-IOM ,IOM International Ogranization for Migration,Serbia,450000,240000,210000,Operational Support,Operational Support,IOM,Serbia
+IOM ,IOM International Organization for Migration,Serbia,450000,240000,210000,Operational Support,Operational Support,IOM,Serbia
+UN Women,UN Women,Serbia,185000,95000,90000,Support to local communities,Local Community Support,UN,Serbia
 SOS Children's Villages Serbia,SOS Children's Villages Serbia,Serbia,14200,8500,5700,Operational Support,Operational Support,INGO,Serbia
 WHO ,WHO World Health Organization,Serbia,42525,24500,18025,Operational Support,Operational Support,UN,Serbia
-IOM ,IOM International Ogranization for Migration,Greece,1148000,588000,560000,Operational Support,Operational Support,IOM,Greece
-ISRAAID,IsraAID,Greece,80076,40038,40038,Operational Support,Operational Support,INGO,Greece
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,843849,421925,421925,Operational Support,Operational Support,UN,Serbia
-UNICEF ,UNICEF United Nations Children's Fund  ,Greece,1260000,945000,315000,Operational Support,Operational Support,UN,Greece
-UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,420000,210000,210000,Operational Support,Operational Support,UN,Croatia
-WHO ,WHO World Health Organization,Croatia,104000,52000,52000,Operational Support,Operational Support,UN,Croatia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,9192716,4596358,4596358,Operational Support,Operational Support,UN,Greece
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Croatia,214960,107480,107480,Operational Support,Operational Support,UN,Croatia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Turkey,335004,167502,167502,Operational Support,Operational Support,UN,Turkey
-UN Women,UN Women,fYR Macedonia,26248,11808,14440,Operational Support,Operational Support,UN,Macedonia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,612777,306389,306389,Operational Support,Operational Support,UN,Macedonia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Slovenia,310772,155386,155386,Operational Support,Operational Support,UN,Slovenia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,200000,100000,100000,Operational support ,Operational Support,UN,Macedonia
-IOM ,IOM International Ogranization for Migration,Slovenia,230000,115000,115000,Operational Support ,Operational Support,IOM,Slovenia
-UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia,337000,200000,137000,Operational Support ,Operational Support,UN,Slovenia
-UNDP ,UNDP United Nations Development Programme,Serbia,184000,92000,92000,Operational Support (Support to local communities),Operational Support,UN,Serbia
-Standing conference of Towns and Municipalities,Standing conference of Towns and Municipalities,Serbia,48000,30000,18000,Operational Support (Support to local communities),Operational Support,NGO,Serbia
-UNOPS ,UNOPS United Nations Office for Project Services,Serbia,184000,92000,92000,Operational Support (Support to local communities) ,Operational Support,UN,Serbia
-ADRA ,ADRA Adventist Development and Relief Agency,Regional,100000,50000,50000,Protection,Protection,INGO,Regional
-IOM ,IOM International Ogranization for Migration,Regional,8745000,4372500,4372500,Protection,Protection,IOM,Regional
-OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Regional,190462,95231,95231,Protection,Protection,UN,Regional
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,32561506,16280753,16280753,Protection,Protection,UN,Regional
-UNV,UNV United Nations Volunteers,Regional,660000,220000,440000,Protection,Protection,UN,Regional
-IOM ,IOM International Ogranization for Migration,Serbia,1410000,755000,655000,Protection,Protection,IOM,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,3828295,1914148,1914148,Protection,Protection,UN,Serbia
-ADRA ,ADRA Adventist Development and Relief Agency,Serbia,591106,295553,295553,Protection,Protection,INGO,Serbia
-DRC,DRC Danish Refugee Council,Serbia,597955,318865,279090,Protection,Protection,INGO,Serbia
-INTERSOS,INTERSOS,Serbia,360000,271609,88392,Protection,Protection,INGO,Serbia
-BCHR,BCHR Belgrade Center for Human Rights ,Serbia,54000,28796,25204,Protection,Protection,NGO,Serbia
-HCIT,HCIT Humanitarian Center for Integration and Tolerance ,Serbia,240000,127982,112018,Protection,Protection,NGO,Serbia
-UNICEF ,UNICEF United Nations Children's Fund  ,Serbia,2020000,1524025,495975,Protection,Protection,UN,Serbia
-UN Women,UN Women,Serbia,615168,464125,151043,Protection,Protection,UN,Serbia
-IRC ,IRC International Rescue Committee,Serbia,1500000,799888,700112,Protection,Protection,INGO,Serbia
 ActionAid,ActionAid,Greece,1842700,633735,1208965,Protection,Protection,INGO,Greece
-Caritas Athens,Caritas Athens,Greece,104783,47196,57586,Protection,Protection,NGO,Greece
+ARSIS,ARSIS Association for the Social Support of Youth ,Greece,934889.0029,347287.6051,587601.3978,Child Protection,Protection,NGO,Greece
+ARSIS,ARSIS Association for the Social Support of Youth ,Greece,192258.3234,79300.91744,112957.4059,Education,Protection,NGO,Greece
+ARSIS,ARSIS Association for the Social Support of Youth ,Greece,59120.89846,19058.02699,40062.87147,Food,Food,NGO,Greece
+ARSIS,ARSIS Association for the Social Support of Youth ,Greece,140715.2608,33880.93688,106834.3239,Nutrition,Health and Nutrition,NGO,Greece
+ARSIS,ARSIS Association for the Social Support of Youth ,Greece,170453.7676,65757.25166,104696.516,Telecommunications,Logistics and Transport,NGO,Greece
+ARSIS,ARSIS Association for the Social Support of Youth ,Greece,1014446.71,479959.9662,534486.7442,Shelter,Shelter and NFIs,NGO,Greece
+Caritas Athens,Caritas Athens,Greece,104782.5296,47196.03285,57586.49676,Protection,Protection,NGO,Greece
+Caritas Athens,Caritas Athens,Greece,97310.60255,45920.41284,51390.18971,Food,Food,NGO,Greece
+Caritas Athens,Caritas Athens,Greece,36168.30137,15437.16254,20731.13883,Nutrition,Health and Nutrition,NGO,Greece
+Caritas Athens,Caritas Athens,Greece,75131.73479,75131.73479,0,NFI,Shelter and NFIs,NGO,Greece
+Caritas Athens,Caritas Athens,Greece,50694.77534,50694.77534,0,Hygiene kits,WASH,NGO,Greece
+Caritas Hellas,Caritas Hellas,Greece,43792.68856,21896.34428,21896.34428,Child Protection,Protection,NGO,Greece
+Caritas Hellas,Caritas Hellas,Greece,99984.03886,49992.01943,49992.01943,Food,Food,NGO,Greece
+Caritas Hellas,Caritas Hellas,Greece,72757.61597,36378.80798,36378.80798,Supply chain,Logistics and Transport,NGO,Greece
+Caritas Hellas,Caritas Hellas,Greece,861381.3806,430690.6903,430690.6903,NFI,Shelter and NFIs,NGO,Greece
+Caritas Hellas,Caritas Hellas,Greece,154578.956,77289.47799,77289.47799,Wash,WASH,NGO,Greece
 Human Appeal,Human Appeal,Greece,535000,267500,267500,Protection,Protection,INGO,Greece
-ICMC,ICMC International Catholic Migration Commission ,Greece,133333,66667,66667,Protection,Protection,INGO,Greece
-IRC ,IRC International Rescue Committee,Greece,4765255,2382627,2382627,Protection,Protection,INGO,Greece
+Human Appeal,Human Appeal,Greece,1701500,850750,850750,Food,Food,INGO,Greece
+Human Appeal,Human Appeal,Greece,785800,392900,392900,Health,Health and Nutrition,INGO,Greece
+ICMC,ICMC International Catholic Migration Commission ,Greece,133333.4,66666.7,66666.7,Protection,Protection,INGO,Greece
+ICMC,ICMC International Catholic Migration Commission ,Greece,157575.8,78787.9,78787.9,Food,Food,INGO,Greece
+ICMC,ICMC International Catholic Migration Commission ,Greece,109091,54545.5,54545.5,Shelter and NFIs,Shelter and NFIs,INGO,Greece
+IMC ,IMC International Medical Corps,Greece,260624.1497,130312.0748,130312.0748,SGBV,Protection,INGO,Greece
+IMC ,IMC International Medical Corps,Greece,2607139.632,1303569.816,1303569.816,Health,Health and Nutrition,INGO,Greece
+IMC ,IMC International Medical Corps,Greece,1656890.218,828445.1092,828445.1092,NFI,Shelter and NFIs,INGO,Greece
+Internews,Internews,Greece,1404245,468435,935810,Communication with Communities,Protection,INGO,Greece
+IOM ,IOM International Organization for Migration,Greece,66800000,33400000,33400000,"Protection, AVRR and Relocation",Protection,IOM,Greece
+IOM ,IOM International Organization for Migration,Greece,300000,150000,150000,Psychosocial support,Health and Nutrition,IOM,Greece
+IOM ,IOM International Organization for Migration,Greece,4000000,2200000,1800000,Transport,Logistics and Transport,IOM,Greece
+IOM ,IOM International Organization for Migration,Greece,7300000,3650000,3650000,Camp management,Shelter and NFIs,IOM,Greece
+IOM ,IOM International Organization for Migration,Greece,1148000,588000,560000,Operational Support,Operational Support,IOM,Greece
+IRC ,IRC International Rescue Committee,Greece,4765254.833,2382627.417,2382627.417,Protection,Protection,INGO,Greece
+IRC ,IRC International Rescue Committee,Greece,6083304.042,3041652.021,3041652.021,Transport,Logistics and Transport,INGO,Greece
+IRC ,IRC International Rescue Committee,Greece,2867038.664,1433519.332,1433519.332,Shelter,Shelter and NFIs,INGO,Greece
+IRC ,IRC International Rescue Committee,Greece,2309402.46,1154701.23,1154701.23,WASH,WASH,INGO,Greece
+ISRAAID,IsraAID,Greece,400456,200228,200228,Health and Nutrition,Protection,INGO,Greece
+ISRAAID,IsraAID,Greece,80076,40038,40038,Operational Support,Operational Support,INGO,Greece
 KSPM-ERP,KSPM-ERP Ecumenical Refugee Programme of the Church of Greece ,Greece,168042,84021,84021,Protection,Protection,NGO,Greece
-Mercy Corps,Mercy Corps,Greece,501214,501214,,Protection,Protection,INGO,Greece
-Solidarity Now,Solidarity Now,Greece,248262,182846,65416,Protection,Protection,NGO,Greece
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,16130541,8065271,8065271,Protection,Protection,UN,Greece
+Mercy Corps,Mercy Corps,Greece,501213.5434,501213.5434,,Protection,Protection,INGO,Greece
+Mercy Corps,Mercy Corps,Greece,1489988.925,1489988.925,,Food,Food,INGO,Greece
+Mercy Corps,Mercy Corps,Greece,74714.08539,74714.08539,,Transport,Logistics and Transport,INGO,Greece
+Mercy Corps,Mercy Corps,Greece,1147887.546,1147887.546,,Shelter grants ,Shelter and NFIs,INGO,Greece
+NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,260719.2354,116645.1613,144074.0741,Community Services,Protection,NGO,Greece
+NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,318348.865,116645.1613,201703.7037,Education,Protection,NGO,Greece
+NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,650931.8996,218709.6774,432222.2222,Food,Food,NGO,Greece
+OXFAM,Oxfam,Greece,152002.1033,75433.49044,76568.61284,SGBV,Protection,INGO,Greece
+OXFAM,Oxfam,Greece,1075262.662,628612.4204,446650.2416,Food,Food,INGO,Greece
+OXFAM,Oxfam,Greece,45599.19456,22629.33429,22969.86028,Transport,Logistics and Transport,INGO,Greece
+OXFAM,Oxfam,Greece,2280033.943,1131503.545,1148530.399,NFI,Shelter and NFIs,INGO,Greece
+OXFAM,Oxfam,Greece,633342.097,314306.2102,319035.8868,WASH,WASH,INGO,Greece
+PRAKSIS,PRAKSIS Projects of Development Social Support and Medical Cooperation ,Greece,3389620.764,1009090.041,2380530.722,Child Protection,Protection,NGO,Greece
+PRAKSIS,PRAKSIS Projects of Development Social Support and Medical Cooperation ,Greece,6671526.061,3343247.814,3328278.248,Food,Food,NGO,Greece
+PRAKSIS,PRAKSIS Projects of Development Social Support and Medical Cooperation ,Greece,2118753.175,933612.1448,1185141.03,Health,Health and Nutrition,NGO,Greece
+SCI ,SCI Save the Children,Greece,5137714.573,2647428.752,2490285.822,Child Protection,Protection,INGO,Greece
+SCI ,SCI Save the Children,Greece,4852171.692,2176085.863,2676085.83,Food,Food,INGO,Greece
+SCI ,SCI Save the Children,Greece,1217142.925,608571.47,608571.4548,Nutrition,Health and Nutrition,INGO,Greece
+SCI ,SCI Save the Children,Greece,1714285.81,857142.9156,857142.8941,Transport,Logistics and Transport,INGO,Greece
+Solidarity Now,Solidarity Now,Greece,248262.1766,182845.7831,65416.39344,Protection,Protection,NGO,Greece
+Solidarity Now,Solidarity Now,Greece,393169.2672,302939.759,90229.5082,Communication with Communities,Protection,NGO,Greece
+Solidarity Now,Solidarity Now,Greece,600568.5562,412214.4578,188354.0984,Shelter,Shelter and NFIs,NGO,Greece
+MDM Medecins du Monde,MDM Medecins du Monde,Greece,7407757,4444654,2963103,Health,Health and Nutrition,NGO,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,843849,421924.5,421924.5,Operational Support,Operational Support,UN,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,16130541,8065270.5,8065270.5,Protection,Protection,UN,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,91430404.6,45715202.3,45715202.3,Shelter and Infrastructure,Shelter and NFIs,UN,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,14268278,7134139,7134139,NFIs,Shelter and NFIs,UN,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,786314.8,393157.4,393157.4,WASH,WASH,UN,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,2081459.6,1040729.8,1040729.8,Health,Health and Nutrition,UN,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,6627513,3313756.5,3313756.5,Logistics and Transport,Logistics and Transport,UN,Greece
 UNICEF ,UNICEF United Nations Children's Fund  ,Greece,2432000,1685000,747000,Protection,Protection,UN,Greece
+UNICEF ,UNICEF United Nations Children's Fund  ,Greece,790000,395000,395000,Education,Protection,UN,Greece
+UNICEF ,UNICEF United Nations Children's Fund  ,Greece,130000,72000,58000,Health,Health and Nutrition,UN,Greece
+UNICEF ,UNICEF United Nations Children's Fund  ,Greece,850000,750000,100000,WASH ,WASH,UN,Greece
+UNICEF ,UNICEF United Nations Children's Fund  ,Greece,1260000,945000,315000,Operational Support,Operational Support,UN,Greece
 Volunteer Center Slavonski Brod,Volunteer Center Slavonski Brod,Croatia,32000,16500,15500,Protection,Protection,NGO,Croatia
 Croatian Red Cross,Croatian Red Cross,Croatia,1975677,1202531,773146,Protection,Protection,NGO,Croatia
-SCI ,SCI Save the Children,Croatia,124394,62197,62197,Protection,Protection,INGO,Croatia
-JRS ,JRS Jesuit Refugee Services,Croatia,187920,69084,118836,Protection,Protection,INGO,Croatia
-Information Legal Center,Information Legal Center,Croatia,68000,34000,34000,Protection,Protection,NGO,Croatia
-Croatian Law Center,Croatian Law Center,Croatia,86540,51080,35460,Protection,Protection,NGO,Croatia
-CARE International,CARE International,Croatia,53178,26589,26589,Protection,Protection,INGO,Croatia
-ADRA ,ADRA Adventist Development and Relief Agency,Croatia,467775,220000,247775,Protection,Protection,INGO,Croatia
-UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,900000,450000,450000,Protection,Protection,UN,Croatia
-IOM ,IOM International Ogranization for Migration,Croatia,1750000,875000,875000,Protection,Protection,IOM,Croatia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Croatia,1344661,672330,672330,Protection,Protection,UN,Croatia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Turkey,3409778,1704889,1704889,Protection,Protection,UN,Turkey
-IOM ,IOM International Ogranization for Migration,Turkey,12750000,8750000,4000000,Protection,Protection,IOM,Turkey
-UN Women,UN Women,Turkey,264600,106920,157680,Protection,Protection,UN,Turkey
-OHCHR ,OHCHR Office of the High Commissioner for Human Rights,fYR Macedonia,60000,30000,30000,Protection,Protection,UN,Macedonia
-MYLA ,MYLA Macedonian Young Lawyers' Association,fYR Macedonia,125091,54833,70258,Protection,Protection,NGO,Macedonia
-GIZ ,GIZ Gesellschaft für Internationale Zusammenarbeit,fYR Macedonia,424316,424316, -   ,Protection,Protection,IGO,Macedonia
-DRC,DRC Danish Refugee Council,fYR Macedonia,17647,17647, -   ,Protection,Protection,INGO,Macedonia
-La Strada,La Strada,fYR Macedonia,581395,290698,290698,Protection,Protection,INGO,Macedonia
-ADRA ,ADRA Adventist Development and Relief Agency,fYR Macedonia,51800,25900,25900,Protection,Protection,INGO,Macedonia
-Mercy Corps,Mercy Corps,fYR Macedonia,572376,372255,200121,Protection,Protection,INGO,Macedonia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,4512658,2256329,2256329,Protection,Protection,UN,Macedonia
-IOM ,IOM International Ogranization for Migration,fYR Macedonia,2517460,1006984,1510476,Protection,Protection,IOM,Macedonia
-Catholic Relief Services,Catholic Relief Services,fYR Macedonia,17000,8500,8500,Protection,Protection,INGO,Macedonia
-ADRA ,ADRA Adventist Development and Relief Agency,Slovenia,2140,1070,1070,Protection,Protection,INGO,Slovenia
-Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia,137796,70429,67367,Protection,Protection,NGO,Slovenia
-PIC,PIC Legal-informational centre for Non-Governmental Organisations,Slovenia,682660,381990,300670,Protection,Protection,NGO,Slovenia
-Peace Institute,Peace Institute,Slovenia,50000,25000,25000,Protection,Protection,NGO,Slovenia
-Caritas Slovenia,Caritas Slovenia ,Slovenia,214000,214000,,Protection,Protection,NGO,Slovenia
-Slovenian Philanthropy,Slovenian Philanthropy ,Slovenia,408377,204188,204188,Protection,Protection,NGO,Slovenia
-Slovenian Red Cross,Slovenian Red Cross ,Slovenia,104054,52027,52027,Protection,Protection,NGO,Slovenia
-IOM ,IOM International Ogranization for Migration,Slovenia,1500000,750000,750000,Protection,Protection,IOM,Slovenia
-UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia,1125000,1125000,,Protection,Protection,UN,Slovenia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Slovenia,2537956,1268978,1268978,Protection,Protection,UN,Slovenia
-OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Serbia,160000,80000,80000,Protection,Protection,UN,Serbia
-SCI ,SCI Save the Children,Serbia,1054549,245260,809288,Protection ,Protection,INGO,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,3684853,1842427,1842427,Protection (HQ portion),Protection,UN,Regional
-IOM ,IOM International Ogranization for Migration,Greece,66800000,33400000,33400000,"Protection, AVRR and Relocation",Protection,IOM,Greece
-IOM ,IOM International Ogranization for Migration,Greece,300000,150000,150000,Psychosocial support,Health and Nutrition,IOM,Greece
-MCIC,MCIC Macedonian Center for International Cooperation,fYR Macedonia,246667,66667,180000,Sanitation,WASH,NGO,Macedonia
-IMC ,IMC International Medical Corps,Greece,260624,130312,130312,SGBV,Protection,INGO,Greece
-OXFAM,Oxfam,Greece,152002,75433,76569,SGBV,Protection,INGO,Greece
-UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,257000,100000,157000,SGBV,Protection,UN,Macedonia
-UN Women,UN Women,fYR Macedonia,315600,147600,168000,SGBV,Protection,UN,Macedonia
-UNFPA ,UNFPA United Nations Population Fund,Turkey,400000,200000,200000,SGBV Programmes,Protection,UN,Turkey
-ARSIS,ARSIS Association for the Social Support of Youth ,Greece,1014447,479960,534487,Shelter,Shelter and NFIs,NGO,Greece
-IRC ,IRC International Rescue Committee,Greece,2867039,1433519,1433519,Shelter,Shelter and NFIs,INGO,Greece
-Solidarity Now,Solidarity Now,Greece,600569,412214,188354,Shelter,Shelter and NFIs,NGO,Greece
-IOM ,IOM International Ogranization for Migration,fYR Macedonia,535000,535000, -   ,Shelter,Shelter and NFIs,IOM,Macedonia
-Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia,34704,34704,,Shelter,Shelter and NFIs,NGO,Slovenia
-EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia,560753,280377,280377,Shelter,Shelter and NFIs,NGO,Slovenia
-UNOPS ,UNOPS United Nations Office for Project Services,Serbia,960000,768000,192000,Shelter and Infrastructure,Shelter and NFIs,UN,Serbia
-CARE International,CARE International,Serbia,88528,88528, -   ,Shelter and Infrastructure,Shelter and NFIs,INGO,Serbia
-Mercy Corps,Mercy Corps,Serbia,1045040,230292,814748,Shelter and Infrastructure,Shelter and NFIs,INGO,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,2922642,1461321,1461321,Shelter and Infrastructure,Shelter and NFIs,UN,Serbia
-IOM ,IOM International Ogranization for Migration,Serbia,260000,130000,130000,Shelter and Infrastructure,Shelter and NFIs,IOM,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,91430405,45715202,45715202,Shelter and Infrastructure,Shelter and NFIs,UN,Greece
+Croatian Red Cross,Croatian Red Cross,Croatia,46979,23490,23490,Food,Food,NGO,Croatia
+Croatian Red Cross,Croatian Red Cross,Croatia,735176,441451,293724,NFIs,Shelter and NFIs,NGO,Croatia
 Croatian Red Cross,Croatian Red Cross,Croatia,444010,444010,,Shelter and Infrastructure,Shelter and NFIs,NGO,Croatia
-SCI ,SCI Save the Children,Croatia,567837,339921,227916,Shelter and Infrastructure,Shelter and NFIs,INGO,Croatia
-CARE International,CARE International,Croatia,221250,110625,110625,Shelter and Infrastructure,Shelter and NFIs,INGO,Croatia
-UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,1200000,600000,600000,Shelter and Infrastructure,Shelter and NFIs,UN,Croatia
-IOM ,IOM International Ogranization for Migration,Croatia,1230000,615000,615000,Shelter and Infrastructure,Shelter and NFIs,IOM,Croatia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Croatia,1726201,863101,863101,Shelter and Infrastructure,Shelter and NFIs,UN,Croatia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1575000,1050000,525000,Shelter and Infrastructure,Shelter and NFIs,UN,Macedonia
-MCIC,MCIC Macedonian Center for International Cooperation,fYR Macedonia,253333,133333,120000,Shelter and Infrastructure,Shelter and NFIs,NGO,Macedonia
-IOM ,IOM International Ogranization for Migration,Slovenia,750000,375000,375000,Shelter and Infrastructure,Shelter and NFIs,IOM,Slovenia
-IOM ,IOM International Ogranization for Migration,Regional,1000000,500000,500000,Shelter and NFIs,Shelter and NFIs,IOM,Regional
-DRC,DRC Danish Refugee Council,Serbia,101170,31037,70133,Shelter and NFIs,Shelter and NFIs,NGO,Serbia
-ICMC,ICMC International Catholic Migration Commission ,Greece,109091,54546,54546,Shelter and NFIs,Shelter and NFIs,INGO,Greece
-Mercy Corps,Mercy Corps,fYR Macedonia,670963,436109,234854,Shelter and NFIs,Shelter and NFIs,INGO,Macedonia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,1233745,616873,616873,Shelter and NFIs,Shelter and NFIs,UN,Macedonia
-ADRA ,ADRA Adventist Development and Relief Agency,Slovenia,856636,438319,418317,Shelter and NFIs,Shelter and NFIs,INGO,Slovenia
-Caritas Slovenia,Caritas Slovenia ,Slovenia,160500,160500,,Shelter and NFIs,Shelter and NFIs,NGO,Slovenia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Slovenia,1901639,950819,950819,Shelter and NFIs,Shelter and NFIs,UN,Slovenia
-Mercy Corps,Mercy Corps,Greece,1147888,1147888,,Shelter grants ,Shelter and NFIs,INGO,Greece
-Caritas Hellas,Caritas Hellas,Greece,72758,36379,36379,Supply chain,Logistics and Transport,NGO,Greece
-UN Women,UN Women,Serbia,185000,95000,90000,Support to local communities,Local Community Support,UN,Serbia
-GIZ ,GIZ Gesellschaft für Internationale Zusammenarbeit,Serbia,69600,34800,34800,Support to local communities,Local Community Support,IGO,Serbia
-Foundation Ana and Vlade Divac,Foundation Ana and Vlade Divac,Serbia,207816,103908,103908,Support to local communities,Local Community Support,NGO,Serbia
-Standing conference of Towns and Municipalities,Standing conference of Towns and Municipalities,Serbia,402000,195000,207000,Support to local communities,Local Community Support,NGO,Serbia
-DRC,DRC Danish Refugee Council,Serbia,96703,96703,,Support to local communities,Local Community Support,INGO,Serbia
-UNOPS ,UNOPS United Nations Office for Project Services,Serbia,2116000,1058000,1058000,Support to local communities,Local Community Support,UN,Serbia
-UNDP ,UNDP United Nations Development Programme,Serbia,2116000,1058000,1058000,Support to local communities,Local Community Support,UN,Serbia
-ARSIS,ARSIS Association for the Social Support of Youth ,Greece,170454,65757,104697,Telecommunications,Logistics and Transport,NGO,Greece
-IOM ,IOM International Ogranization for Migration,Greece,4000000,2200000,1800000,Transport,Logistics and Transport,IOM,Greece
-IRC ,IRC International Rescue Committee,Greece,6083304,3041652,3041652,Transport,Logistics and Transport,INGO,Greece
-Mercy Corps,Mercy Corps,Greece,74714,74714,,Transport,Logistics and Transport,INGO,Greece
-OXFAM,Oxfam,Greece,45599,22629,22970,Transport,Logistics and Transport,INGO,Greece
-SCI ,SCI Save the Children,Greece,1714286,857143,857143,Transport,Logistics and Transport,INGO,Greece
-Foundation Ana and Vlade Divac,Foundation Ana and Vlade Divac,Serbia,195670,97835,97835,WASH,WASH,NGO,Serbia
-IMC ,IMC International Medical Corps,Serbia,1036490,549339,487150,WASH,WASH,INGO,Serbia
-Arche Nova,Arche Nova,Serbia,302733,161435,141298,WASH,WASH,INGO,Serbia
-CARE International,CARE International,Serbia,287500,215625,71875,WASH,WASH,INGO,Serbia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Serbia,865968,432984,432984,WASH,WASH,UN,Serbia
-DRC,DRC Danish Refugee Council,Serbia,227304,116857,110447,WASH,WASH,INGO,Serbia
-Caritas Hellas,Caritas Hellas,Greece,154579,77289,77289,Wash,WASH,NGO,Greece
-IRC ,IRC International Rescue Committee,Greece,2309402,1154701,1154701,WASH,WASH,INGO,Greece
-OXFAM,Oxfam,Greece,633342,314306,319036,WASH,WASH,INGO,Greece
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,786315,393157,393157,WASH,WASH,UN,Greece
+Croatian Red Cross,Croatian Red Cross,Croatia,1398721,1044445,354275,Logistics and Transport,Logistics and Transport,NGO,Croatia
 Croatian Red Cross,Croatian Red Cross,Croatia,1534311,767155,767155,WASH,WASH,NGO,Croatia
-Samaritan Purse,Samaritan Purse,Croatia,2109090,1312031,797059,WASH,WASH,INGO,Croatia
-CARE International,CARE International,Croatia,31053,15526,15526,WASH,WASH,INGO,Croatia
+SCI ,SCI Save the Children,Croatia,124394,62197,62197,Protection,Protection,INGO,Croatia
+SCI ,SCI Save the Children,Croatia,911372.4504,546823.739,364548.7114,Health ,Health and Nutrition,INGO,Croatia
+SCI ,SCI Save the Children,Croatia,567837.1831,339921.1134,227916.0696,Shelter and Infrastructure,Shelter and NFIs,INGO,Croatia
+JRS ,JRS Jesuit Refugee Services,Croatia,187920,69084,118836,Protection,Protection,INGO,Croatia
+Samaritan Purse,Samaritan Purse,Croatia,2803884.4,1776643.3,1027241.1,NFIs,Shelter and NFIs,INGO,Croatia
+Samaritan Purse,Samaritan Purse,Croatia,2109089.6,1312030.6,797059,WASH,WASH,INGO,Croatia
+Information Legal Center,Information Legal Center,Croatia,68000,34000,34000,Protection,Protection,NGO,Croatia
+Croatian Law Center,Croatian Law Center,Croatia,86539.97,51080.45,35459.52,Protection,Protection,NGO,Croatia
+CARE International,CARE International,Croatia,53177.6,26588.8,26588.8,Protection,Protection,INGO,Croatia
+CARE International,CARE International,Croatia,326569.9,98747.3,227822.6,Health,Health and Nutrition,INGO,Croatia
+CARE International,CARE International,Croatia,221249.8,110624.9,110624.9,Shelter and Infrastructure,Shelter and NFIs,INGO,Croatia
+CARE International,CARE International,Croatia,31052.6,15526.3,15526.3,WASH,WASH,INGO,Croatia
+ADRA ,ADRA Adventist Development and Relief Agency,Croatia,467775,220000,247775,Protection,Protection,INGO,Croatia
+ADRA ,ADRA Adventist Development and Relief Agency,Croatia,467775,220000,247775,NFIs,Shelter and NFIs,INGO,Croatia
+UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,1200000,600000,600000,Shelter and Infrastructure,Shelter and NFIs,UN,Croatia
+UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,900000,450000,450000,Protection,Protection,UN,Croatia
+UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,900000,450000,450000,Health,Health and Nutrition,UN,Croatia
+UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,420000,210000,210000,Operational Support,Operational Support,UN,Croatia
+WHO ,WHO World Health Organization,Croatia,800000,400000,400000,Health,Health and Nutrition,UN,Croatia
+WHO ,WHO World Health Organization,Croatia,104000,52000,52000,Operational Support,Operational Support,UN,Croatia
+IOM ,IOM International Organization for Migration,Croatia,1750000,875000,875000,Protection,Protection,IOM,Croatia
+IOM ,IOM International Organization for Migration,Croatia,1250000,625000,625000,Health,Health and Nutrition,IOM,Croatia
+IOM ,IOM International Organization for Migration,Croatia,1000000,500000,500000,Logistics and Transport,Logistics and Transport,IOM,Croatia
+IOM ,IOM International Organization for Migration,Croatia,1230000,615000,615000,Shelter and Infrastructure,Shelter and NFIs,IOM,Croatia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Greece,9192716,4596358,4596358,Operational Support,Operational Support,UN,Greece
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Croatia,1344660.6,672330.3,672330.3,Protection,Protection,UN,Croatia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Croatia,1726201.4,863100.7,863100.7,Shelter and Infrastructure,Shelter and NFIs,UN,Croatia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Croatia,214960,107480,107480,Operational Support,Operational Support,UN,Croatia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Turkey,3409778,1704889,1704889,Protection,Protection,UN,Turkey
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Turkey,1376000,688000,688000,NFIs,Shelter and NFIs,UN,Turkey
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Turkey,335004,167502,167502,Operational Support,Operational Support,UN,Turkey
+IOM ,IOM International Organization for Migration,Turkey,12750000,8750000,4000000,Protection,Protection,IOM,Turkey
+IOM ,IOM International Organization for Migration,Turkey,2000000,1000000,1000000,Health,Health and Nutrition,IOM,Turkey
+IOM ,IOM International Organization for Migration,Turkey,10000000,5000000,5000000,NFIs,Shelter and NFIs,IOM,Turkey
+UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,1500000,750000,750000,Child Protection,Protection,UN,Turkey
+UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,1000000,500000,500000,NFIs,Shelter and NFIs,UN,Turkey
+WHO ,WHO World Health Organization,Turkey,2000000,750000,1250000,Health,Health and Nutrition,UN,Turkey
+UNFPA ,UNFPA United Nations Population Fund,Turkey,400000,200000,200000,SGBV Programmes,Protection,UN,Turkey
+UNFPA ,UNFPA United Nations Population Fund,Turkey,600000,300000,300000,Health,Health and Nutrition,UN,Turkey
+UNFPA ,UNFPA United Nations Population Fund,Turkey,1000000,500000,500000,NFIs,Shelter and NFIs,UN,Turkey
+UN Women,UN Women,Turkey,264600,106920,157680,Protection,Protection,UN,Turkey
+GIZ ,GIZ Gesellschaft für Internationale Zusammenarbeit,Serbia,69600,34800,34800,Support to local communities,Local Community Support,IGO,Serbia
+Foundation Ana and Vlade Divac,Foundation Ana and Vlade Divac,Serbia,207815.8,103907.9,103907.9,Support to local communities,Local Community Support,NGO,Serbia
+Standing conference of Towns and Municipalities,Standing conference of Towns and Municipalities,Serbia,402000,195000,207000,Support to local communities,Local Community Support,NGO,Serbia
+Standing conference of Towns and Municipalities,Standing conference of Towns and Municipalities,Serbia,48000,30000,18000,Operational Support (Support to local communities),Operational Support,NGO,Serbia
+DRC,DRC Danish Refugee Council,Serbia,96702.9,96702.9,,Support to local communities,Local Community Support,INGO,Serbia
+UNOPS ,UNOPS United Nations Office for Project Services,Serbia,2116000,1058000,1058000,Support to local communities,Local Community Support,UN,Serbia
+UNOPS ,UNOPS United Nations Office for Project Services,Serbia,184000,92000,92000,Operational Support (Support to local communities) ,Operational Support,UN,Serbia
+UNDP ,UNDP United Nations Development Programme,Serbia,2116000,1058000,1058000,Support to local communities,Local Community Support,UN,Serbia
+UNDP ,UNDP United Nations Development Programme,Serbia,184000,92000,92000,Operational Support  (Support to local communities),Operational Support,UN,Serbia
+WHO ,WHO World Health Organization,fYR Macedonia,650000,374500,275500,Health,Health and Nutrition,UN,Macedonia
+OHCHR ,OHCHR Office of the High Commissioner for Human Rights,fYR Macedonia,60000,30000,30000,Protection,Protection,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1850000,925000,925000,Child Protection,Protection,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1600000,800000,800000,Health,Health and Nutrition,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1575000,1050000,525000,Shelter and Infrastructure,Shelter and NFIs,UN,Macedonia
 UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,1700000,900000,800000,WASH,WASH,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,200000,100000,100000,Operational support ,Operational Support,UN,Macedonia
+UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,257000,100000,157000,SGBV,Protection,UN,Macedonia
+UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,402000,200000,202000,Health,Health and Nutrition,UN,Macedonia
+UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,216000,108000,108000,Hygiene,WASH,UN,Macedonia
+MYLA ,MYLA Macedonian Young Lawyers' Association,fYR Macedonia,125091,54833,70258,Protection,Protection,NGO,Macedonia
+GIZ ,GIZ Gesellschaft für Internationale Zusammenarbeit,fYR Macedonia,424316,424316,0,Waste Disposal,WASH,IGO,Macedonia
+GIZ ,GIZ Gesellschaft für Internationale Zusammenarbeit,fYR Macedonia,424316,424316,0,Protection,Protection,IGO,Macedonia
+DRC,DRC Danish Refugee Council,fYR Macedonia,17647.05882,17647.05882,0,Protection,Protection,INGO,Macedonia
+DRC,DRC Danish Refugee Council,fYR Macedonia,141176.4706,141176.4706,0,NFIs,Shelter and NFIs,INGO,Macedonia
+DRC,DRC Danish Refugee Council,fYR Macedonia,41176.47059,41176.47059,0,Hygiene,WASH,INGO,Macedonia
+Dorcas,Dorcas,fYR Macedonia,1260000,630000,630000,Food Distribution,Food,INGO,Macedonia
+Legis,Legis,fYR Macedonia,953078.6517,476539.3258,476539.3258,Food Distribution,Food,INGO,Macedonia
+Legis,Legis,fYR Macedonia,517977.5281,258988.764,258988.764,NFIs,Shelter and NFIs,INGO,Macedonia
+Legis,Legis,fYR Macedonia,372943.8202,186471.9101,186471.9101,Hygiene,WASH,INGO,Macedonia
+AGAPE,Agape,fYR Macedonia,547500,273750,273750,Food Distribution,Food,NGO,Macedonia
+UN Women,UN Women,fYR Macedonia,315600,147600,168000,SGBV,Protection,UN,Macedonia
+UN Women,UN Women,fYR Macedonia,26248,11808,14440,Operational Support,Operational Support,UN,Macedonia
+Operation Mercy,Operation Mercy,fYR Macedonia,21166,21166,0,Food Distribution,Food,NGO,Macedonia
+Operation Mercy,Operation Mercy,fYR Macedonia,26453,26453,0,NFIs,Shelter and NFIs,NGO,Macedonia
+Operation Mercy,Operation Mercy,fYR Macedonia,37041,37041,0,Infrastructure,Shelter and NFIs,NGO,Macedonia
+Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,fYR Macedonia,211850,105925,105925,Food Distribution,Food,INGO,Macedonia
+Nun Kultura,Nun Kultura,fYR Macedonia,1261975,630987.5,630987.5,Food Distribution,Food,NGO,Macedonia
+Nun Kultura,Nun Kultura,fYR Macedonia,374300,187150,187150,NFIs,Shelter and NFIs,NGO,Macedonia
+Nun Kultura,Nun Kultura,fYR Macedonia,108000,54000,54000,Hygiene,WASH,NGO,Macedonia
+La Strada,La Strada,fYR Macedonia,581395.3488,290697.6744,290697.6744,Protection,Protection,INGO,Macedonia
+La Strada,La Strada,fYR Macedonia,174418.6047,87209.30233,87209.30233,NFIs,Shelter and NFIs,INGO,Macedonia
+La Strada,La Strada,fYR Macedonia,69767.44186,34883.72093,34883.72093,Hygiene,WASH,INGO,Macedonia
+La Strada,La Strada,fYR Macedonia,174418.6047,87209.30233,87209.30233,Food Distribution,Food,INGO,Macedonia
+ADRA ,ADRA Adventist Development and Relief Agency,fYR Macedonia,51800,25900,25900,Protection,Protection,INGO,Macedonia
+ADRA ,ADRA Adventist Development and Relief Agency,fYR Macedonia,345740,172870,172870,Food,Food,INGO,Macedonia
+Mercy Corps,Mercy Corps,fYR Macedonia,572375.8185,372255.1151,200120.7033,Protection,Protection,INGO,Macedonia
+Mercy Corps,Mercy Corps,fYR Macedonia,670963.1815,436108.8849,234854.2967,Shelter and NFIs,Shelter and NFIs,INGO,Macedonia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,4512658.2,2256329.1,2256329.1,Protection,Protection,UN,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,802550.5051,427272.7273,375277.7778,Food Distribution,Food,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,427878.7879,267045.4545,160833.3333,Health,Health and Nutrition,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,535101.0101,267045.4545,268055.5556,NFIs,Shelter and NFIs,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,374469.697,213636.3636,160833.3333,Hygiene,WASH,NGO,Macedonia
+IOM ,IOM International Organization for Migration,fYR Macedonia,2517460,1006984,1510476,Protection,Protection,IOM,Macedonia
+IOM ,IOM International Organization for Migration,fYR Macedonia,211640,211640,0,Health,Health and Nutrition,IOM,Macedonia
+IOM ,IOM International Organization for Migration,fYR Macedonia,535000,535000,0,Shelter,Shelter and NFIs,IOM,Macedonia
+IOM ,IOM International Organization for Migration,fYR Macedonia,125000,125000,0,Health,Health and Nutrition,IOM,Macedonia
+Catholic Relief Services,Catholic Relief Services,fYR Macedonia,17000,8500,8500,Protection,Protection,INGO,Macedonia
+Catholic Relief Services,Catholic Relief Services,fYR Macedonia,40000,20000,20000,Food Distribution,Food,INGO,Macedonia
+Catholic Relief Services,Catholic Relief Services,fYR Macedonia,400000,200000,200000,NFIs,Shelter and NFIs,INGO,Macedonia
 Catholic Relief Services,Catholic Relief Services,fYR Macedonia,10000,5000,5000,WASH,WASH,INGO,Macedonia
-UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,910627,455314,455314,WASH,WASH,UN,Macedonia
-IOM ,IOM International Ogranization for Migration,Slovenia,300000,150000,150000,WASH,WASH,IOM,Slovenia
-UNICEF ,UNICEF United Nations Children's Fund  ,Greece,850000,750000,100000,WASH ,WASH,UN,Greece
-EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia,130192,65096,65096,WASH ,WASH,NGO,Slovenia
-UNICEF ,UNICEF United Nations Children's Fund  ,Regional,470000,300000,170000,WASH and NFIs,WASH,UN,Regional
-GIZ ,GIZ Gesellschaft für Internationale Zusammenarbeit,fYR Macedonia,424316,424316, -   ,Waste Disposal,WASH,IGO,Macedonia
+MCIC,MCIC Macedonian Center for International Cooperation,fYR Macedonia,253333.3333,133333.3333,120000,Shelter and Infrastructure,Shelter and NFIs,NGO,Macedonia
+MCIC,MCIC Macedonian Center for International Cooperation,fYR Macedonia,246666.6667,66666.66667,180000,Sanitation,WASH,NGO,Macedonia
+UNDP ,UNDP United Nations Development Programme,fYR Macedonia,5200000,2700000,2500000,Livelihoods/Host Community Resilience,Local Community Support,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,796326.6,398163.3,398163.3,Food,Food,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,1233745.4,616872.7,616872.7,Shelter and NFIs,Shelter and NFIs,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,910627.4,455313.7,455313.7,WASH,WASH,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,1300595.4,650297.7,650297.7,Health and Nutrition,Health and Nutrition,UN,Macedonia
+ADRA ,ADRA Adventist Development and Relief Agency,Slovenia ,2139.8,1069.9,1069.9,Protection,Protection,INGO,Slovenia 
+ADRA ,ADRA Adventist Development and Relief Agency,Slovenia ,128751.2,48281.2,80470,Food,Food,INGO,Slovenia 
+ADRA ,ADRA Adventist Development and Relief Agency,Slovenia ,856636.2,438319.2,418317,Shelter and NFIs,Shelter and NFIs,INGO,Slovenia 
+ADRA ,ADRA Adventist Development and Relief Agency,Slovenia ,4690.6,2345.3,2345.3,Logistics and Transport,Logistics and Transport,INGO,Slovenia 
+Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia ,137796.3,70429.2,67367.1,Protection,Protection,NGO,Slovenia 
+Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia ,171479.9,97988.5,73491.4,Food,Food,NGO,Slovenia 
+Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia ,34704.3,34704.3,,Shelter,Shelter and NFIs,NGO,Slovenia 
+Association Hope Jesenice/Institute Abraham,Association Hope Jesenice/Institute Abraham,Slovenia ,53689.5,30213.1,23476.4,Logistics and Transport,Logistics and Transport,NGO,Slovenia 
+EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia ,208306.74,104153.37,104153.37,Food,Food,NGO,Slovenia 
+EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia ,560753.06,280376.53,280376.53,Shelter,Shelter and NFIs,NGO,Slovenia 
+EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia ,82375.82,41187.91,41187.91,Logistics and Transport,Logistics and Transport,NGO,Slovenia 
+EHO-Podpornica with HIA,Podpornica Evangelical Humanitarian Organisation with HIA Hungarian Interchurch Aid,Slovenia ,130191.72,65095.86,65095.86,WASH ,WASH,NGO,Slovenia 
+PIC,PIC Legal-informational centre for Non-Governmental Organisations,Slovenia ,682660,381990,300670,Protection,Protection,NGO,Slovenia 
+Peace Institute,Peace Institute,Slovenia ,50000,25000,25000,Protection,Protection,NGO,Slovenia 
+SLOGA ,SLOGA Slovenian Development and Humanitarian NGO Platform,Slovenia ,169000,82000,87000,Coordination,Protection,NGO,Slovenia 
+Caritas Slovenia,Caritas Slovenia ,Slovenia ,214000,214000,,Protection,Protection,NGO,Slovenia 
+Caritas Slovenia,Caritas Slovenia ,Slovenia ,775750,775750,,Health and Nutrition,Health and Nutrition,NGO,Slovenia 
+Caritas Slovenia,Caritas Slovenia ,Slovenia ,160500,160500,,Shelter and NFIs,Shelter and NFIs,NGO,Slovenia 
+Slovenian Philanthropy,Slovenian Philanthropy ,Slovenia ,408376.8277,204188.4139,204188.4139,Protection,Protection,NGO,Slovenia 
+Slovenian Philanthropy,Slovenian Philanthropy ,Slovenia ,30439.17225,15219.58613,15219.58613,Health and Nutrition,Health and Nutrition,NGO,Slovenia 
+Slovenian Red Cross,Slovenian Red Cross ,Slovenia ,104054.0541,52027.02703,52027.02703,Protection,Protection,NGO,Slovenia 
+Slovenian Red Cross,Slovenian Red Cross ,Slovenia ,178378.3784,89189.18919,89189.18919,Health ,Health and Nutrition,NGO,Slovenia 
+Slovenian Red Cross,Slovenian Red Cross ,Slovenia ,148648.6486,74324.32432,74324.32432,Food Assistance ,Food,NGO,Slovenia 
+Slovenian Red Cross,Slovenian Red Cross ,Slovenia ,118918.9189,59459.45946,59459.45946,Logistics and Transport,Logistics and Transport,NGO,Slovenia 
+WAHA ,WAHA Women and Health Alliance International,Slovenia ,723450,415779,307671,Health ,Health and Nutrition,INGO,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,1500000,750000,750000,Protection,Protection,IOM,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,600000,300000,300000,Health and Nutrition,Health and Nutrition,IOM,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,1000000,500000,500000,NFIs,Shelter and NFIs,IOM,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,750000,375000,375000,Shelter and Infrastructure,Shelter and NFIs,IOM,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,300000,150000,150000,WASH,WASH,IOM,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,800000,400000,400000,Logistics and Transport,Logistics and Transport,IOM,Slovenia 
+IOM ,IOM International Organization for Migration,Slovenia ,230000,115000,115000,Operational Support ,Operational Support,IOM,Slovenia 
+UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia ,1125000,1125000,,Protection,Protection,UN,Slovenia 
+UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia ,337000,200000,137000,Operational Support ,Operational Support,UN,Slovenia 
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,fYR Macedonia,612777,306388.5,306388.5,Operational Support,Operational Support,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Slovenia ,2537956.2,1268978.1,1268978.1,Protection,Protection,UN,Slovenia 
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Slovenia ,1901638.6,950819.3,950819.3,Shelter and NFIs,Shelter and NFIs,UN,Slovenia 
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Slovenia ,310772,155386,155386,Operational Support,Operational Support,UN,Slovenia 
+OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Serbia,160000,80000,80000,Protection,Protection,UN,Serbia
+UNHCR ,UNHCR United Nations High Commissioner for Refugees,Regional,3684853,1842426.5,1842426.5,Protection (HQ portion),Protection,UN,Regional
