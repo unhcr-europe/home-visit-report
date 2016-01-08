@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="14px" viewBox="0 0 23 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>arrowUp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M16.1166956,17.6901019 L5,6.99975611 L16.1166956,-3.68928896 C16.5475517,-4.10357035 17.2462555,-4.10357035 17.6771116,-3.68928896 C18.1076295,-3.27533276 18.1076295,-2.60318235 17.6771116,-2.18922614 L8.11914099,6.99975611 L17.6771116,16.1900391 C18.1076295,16.6039953 18.1076295,17.2761457 17.6771116,17.6901019 C17.4616835,17.8959419 17.1789554,18 16.8962272,18 C16.613499,18 16.3321236,17.8959419 16.1166956,17.6901019 Z" id="arrowUp" fill="#F46508" sketch:type="MSShapeGroup" transform="translate(11.500000, 7.000000) scale(1, -1) rotate(-90.000000) translate(-11.500000, -7.000000) "></path>
+    </g>
+</svg>
