@@ -424,15 +424,22 @@ Array.prototype.unique = function() {
                     e(this).data("video_count", f);
                     f++
                 }
-                if (!e(this).hasClass("last")) {
                     var n = e(
-                        '<div class="next">CLICK TO NAVIGATE<span class="red_arrow"></span><div>'
+                        "<a class='slideNav_arrow -prev' data-prevSlide><i></i></a><span class='slideNav_label'>Navigate</span><a class='slideNav_arrow -next' data-nextSlide><i></i></a>"
                     );
-                    n.data("index", t + 1).click(function() {
-                        d(e(this).data("index"))
+                     e(this).find(".slideNav").empty().append(n);
+                    e(this).find(".slideNav a[data-nextSlide]", n).click(function() {
+                        console.log("next");
+                        d(t + 1);
                     });
-                    e(this).find(".block .inner").append(n)
+                    e(this).find( ".slideNav a[data-prevSlide]", n).click(function() {
+                        console.log("previous");
+                        d(t - 1);
+                    });
+                if (e(this).hasClass("last")) {
+                    e(this).find(".slideNav a[data-nextSlide]", n).hide();
                 }
+
             });
             var l = window.location.toString().split("#");
             l.length > 1 ? p(l[1]) : d(0)
