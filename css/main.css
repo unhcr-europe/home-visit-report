@@ -1127,6 +1127,7 @@ span.sharer {
   position: absolute;
   bottom: 40px;
   left: 50%;
+  text-align: center;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
@@ -1135,7 +1136,6 @@ span.sharer {
 
   .slideNav_label {
     display: inline-block;
-    /*padding: 0 0.5em;*/
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
     text-align: center;
@@ -1161,12 +1161,32 @@ span.sharer {
       background-repeat: no-repeat;
     }
 
+      .slideNav_arrow.-prev {
+        position: absolute;
+        right: 101%;
+      }
+
       .slideNav_arrow.-prev i {
         background-image: url("../img/arrowUp.svg");
       }
 
       .slideNav_arrow.-next i {
+        vertical-align: -1px;
         background-image: url("../img/arrowDown.svg");
       }
 
+
+/* Modified for showing a single arrow below the label */
+.slideNav.-single .slideNav_label {
+  display: block;
+}
+.slideNav.-single .slideNav_arrow {
+  position: static;
+}
+  .slideNav.-single.-next .slideNav_arrow.-prev {
+    display: none;
+  }
+  .slideNav.-single.-prev .slideNav_arrow.-next {
+    display: none;
+  }
 
