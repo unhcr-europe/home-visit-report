@@ -1080,7 +1080,7 @@ span.sharer {
 }
 #footer {
     background-image:url("../img/logo.png") !important;
-    background-repeat: none;
+    background-repeat: no-repeat;
 }
 
 
