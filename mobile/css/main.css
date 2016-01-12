@@ -534,7 +534,10 @@ body {
 .block .section_header {
     color: #fff;
     text-align: center;
-    font-family: 'Times',serif;
+    /* font changed for the mobile version on Jan 12 by Javed*/
+    
+    /* font-family: 'Times',serif; */
+    font-family: 'Calibri Light','Gill Sans','Open Sans',Geneva,Helvetica,Arial,sans-serif;
     font-weight: 400;
     font-size: 2em;
     line-height: .9;
