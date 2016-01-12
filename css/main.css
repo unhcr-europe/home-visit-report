@@ -411,7 +411,7 @@ body.loading {
     left:20px;
     background-position:-5px -42px;
     height:31px;
-    width:312px;
+    width:308px;
     z-index:1001
 }
 #footer #unhcr_logo {
@@ -431,7 +431,7 @@ body.loading {
     top:0;
     left:146px;
     z-index:190;
-    width:100px;
+    width:98px;
     height:31px;
 
     text-indent:-4000px;
