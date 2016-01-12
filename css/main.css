@@ -429,10 +429,10 @@ body.loading {
 #footer #iom_logo {
     position:absolute;
     top:0;
-    left:146px;
+    left:140px;
     z-index:190;
-    width:98px;
-    height:31px;
+    width:113px;
+    height:42px;
 
     text-indent:-4000px;
     overflow:hidden
