@@ -1100,7 +1100,7 @@ span.sharer {
     width:196px;
     height:208px;
     margin:0 auto 20px;
-    background-image:url("../img/logo.png") !important;
+    background-image:url("../img/toosmall_logo.png") !important;
     -webkit-background-size:196px 208px;
     background-size:196px 208px
 }
