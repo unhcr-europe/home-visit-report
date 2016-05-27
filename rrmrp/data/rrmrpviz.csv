@@ -6,24 +6,15 @@ ADRA,ADRA Adventist Development and Relief Agency,Regional,100000,,,NFIs,Shelter
 ADRA,ADRA Adventist Development and Relief Agency,Serbia,528000,,,Protection,Protection,INGO,Serbia
 ADRA,ADRA Adventist Development and Relief Agency,Serbia,47000,,,Health,Health and Nutrition,INGO,Serbia
 ADRA,ADRA Adventist Development and Relief Agency,Croatia,98250,,,Protection,Protection,INGO,Croatia
-ADRA,ADRA Adventist Development and Relief Agency,fYR Macedonia,93032,,,Operational Support,Operational Support,INGO,fYR Macedonia
-ADRA,ADRA Adventist Development and Relief Agency,fYR Macedonia,213750,,,Food Distribution,Food,INGO,fYR Macedonia
+ADRA,ADRA Adventist Development and Relief Agency,Macedonia,93032,,,Operational Support,Operational Support,INGO,Macedonia
+ADRA,ADRA Adventist Development and Relief Agency,Macedonia,213750,,,Food Distribution,Food,INGO,Macedonia
 ADRA,ADRA Adventist Development and Relief Agency,Slovenia,3174,,,Education,Education,INGO,Slovenia
 ADRA,ADRA Adventist Development and Relief Agency,Slovenia,55062.8,,,Operational Support,Operational Support,INGO,Slovenia
 ADRA,ADRA Adventist Development and Relief Agency,Slovenia,17111.66,,,Protection,Protection,INGO,Slovenia
-AGAPE,Agape,fYR Macedonia,178000,,,Food Distribution,Food,INGO,fYR Macedonia
-IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,1842701,,,Protection,Protection,NGO,Greece
-IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,2780355,,,Food Distribution and Food Security,Food,NGO,Greece
-IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,105000,,,Core Relief Items and Non-food items,Shelter and NFIs,NGO,Greece
-IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,1502795,,,"Water Supply
-WASH
-Hygiene kits
-Hygiene training",WASH,NGO,Greece
-IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,98900,,,Support to local communities,Support to local communities,NGO,Greece
-IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,665001,,,Operational Support ,Operational Support,NGO,Greece
-Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,fYR Macedonia,16808,,,Health,Health and Nutrition,INGO,fYR Macedonia
-Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,fYR Macedonia,84041,,,Hygiene,WASH,INGO,fYR Macedonia
-Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,fYR Macedonia,235314,,,Food Distribution,Food,INGO,fYR Macedonia
+AGAPE,Agape,Macedonia,178000,,,Food Distribution,Food,INGO,Macedonia
+Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Macedonia,16808,,,Health,Health and Nutrition,INGO,Macedonia
+Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Macedonia,84041,,,Hygiene,WASH,INGO,Macedonia
+Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Arbeiter Samariter Bund Deutschland e.V./PREDA Plus,Macedonia,235314,,,Food Distribution,Food,INGO,Macedonia
 ARSIS,ARSIS Association for the Social Support of Youth ,Greece,1376648,,,"Child Protection, Legal Assistance ",Protection,NGO,Greece
 ARSIS,ARSIS Association for the Social Support of Youth ,Greece,1466920,,,Shelter,Shelter and NFIs,NGO,Greece
 ARSIS,ARSIS Association for the Social Support of Youth ,Greece,199050,,,Operational Support ,Operational Support,NGO,Greece
@@ -49,16 +40,16 @@ Caritas Hellas,Caritas Hellas,Greece,130536,,,Health,Health and Nutrition,NGO,Gr
 Caritas Hellas,Caritas Hellas,Greece,1191910,,,"Shelter grants/vouchers, Cash assistance for NFI",Shelter and NFIs,NGO,Greece
 Caritas Hellas,Caritas Hellas,Greece,119658,,,Telecommunication,"Logistics, Telecommunication and Transport ",NGO,Greece
 Caritas Hellas,Caritas Hellas,Greece,237676,,,Operational Support ,Operational Support,NGO,Greece
+Catholic Relief Services ,CRS Catholic Relief Services ,Macedonia,17000,,,Protection,Protection,INGO,Macedonia
+Catholic Relief Services ,CRS Catholic Relief Services ,Macedonia,40000,,,Food Distribution,Food,INGO,Macedonia
+Catholic Relief Services ,CRS Catholic Relief Services ,Macedonia,400000,,,NFIs,Shelter and NFIs,INGO,Macedonia
+Catholic Relief Services ,CRS Catholic Relief Services ,Macedonia,10000,,,WASH,WASH,INGO,Macedonia
 Croatian Red Cross,CRC Croatian Red Cross,Croatia,490500,,,Protection,Protection,NGO,Croatia
 Croatian Red Cross,CRC Croatian Red Cross,Croatia,788000,,,Shelter and Infrastructure,Shelter and NFIs,NGO,Croatia
 Croatian Red Cross,CRC Croatian Red Cross,Croatia,128000,,,Operational Support,Operational Support,NGO,Croatia
-CRS,CRS Catholic Relief Services ,fYR Macedonia,17000,,,Protection,Protection,INGO,fYR Macedonia
-CRS,CRS Catholic Relief Services ,fYR Macedonia,40000,,,Food Distribution,Food,INGO,fYR Macedonia
-CRS,CRS Catholic Relief Services ,fYR Macedonia,400000,,,NFIs,Shelter and NFIs,INGO,fYR Macedonia
-CRS,CRS Catholic Relief Services ,fYR Macedonia,10000,,,WASH,WASH,INGO,fYR Macedonia
 DIOTIMA ,DIOTIMA Centre of research on Women's Issues ,Greece,198606.37,,,SGBV,Protection,INGO,Greece
-DTL,Disaster Tech Lab,Greece,100000,,,Telecommunications,"Logistics, Telecommunication and Transport ",INGO,Greece
-Dorcas,Dorcas,fYR Macedonia,222000,,,Food Distribution,Food,INGO,fYR Macedonia
+Disaster Tech Lab,Disaster Tech Lab,Greece,100000,,,Telecommunications,"Logistics, Telecommunication and Transport ",INGO,Greece
+Dorcas,Dorcas,Macedonia,222000,,,Food Distribution,Food,INGO,Macedonia
 DRC,DRC Danish Refugee Council,Serbia,68000,,,Protection,Protection,INGO,Serbia
 DRC,DRC Danish Refugee Council,Serbia,158000,,,WASH,WASH,INGO,Serbia
 DRC,DRC Danish Refugee Council,Serbia,64400,,,Health,Health and Nutrition,INGO,Serbia
@@ -72,17 +63,17 @@ Househould items
 Non-food items",Shelter and NFIs,INGO,Greece
 DRC,DRC Danish Refugee Council,Greece,1441753,,,"Site infrastructure improvements, Cleaning and maintenance
 Coordination and monitoring of services, Capacity building",Site Management Support - SMS,INGO,Greece
-DRC,DRC Danish Refugee Council ,fYR Macedonia,57800,,,Protection,Protection,INGO,fYR Macedonia
-DRC,DRC Danish Refugee Council ,fYR Macedonia,60000,,,NFIs,Shelter and NFIs,INGO,fYR Macedonia
-DRC,DRC Danish Refugee Council ,fYR Macedonia,80000,,,Hygiene,WASH,INGO,fYR Macedonia
-GIZ ,GIZ Gesellschaft fuer Internationale Zusammenarbeit ,fYR Macedonia,424316,,,Waste Disposal,WASH,INGO,fYR Macedonia
-GIZ ,GIZ Gesellschaft fuer Internationale Zusammenarbeit ,fYR Macedonia,424316,,,Protection,Protection,INGO,fYR Macedonia
+DRC,DRC Danish Refugee Council,Macedonia,57800,,,Protection,Protection,INGO,Macedonia
+DRC,DRC Danish Refugee Council,Macedonia,60000,,,NFIs,Shelter and NFIs,INGO,Macedonia
+DRC,DRC Danish Refugee Council,Macedonia,80000,,,Hygiene,WASH,INGO,Macedonia
+GIZ ,GIZ Gesellschaft fuer Internationale Zusammenarbeit ,Macedonia,424316,,,Waste Disposal,WASH,INGO,Macedonia
+GIZ ,GIZ Gesellschaft fuer Internationale Zusammenarbeit ,Macedonia,424316,,,Protection,Protection,INGO,Macedonia
+HSA,HSA Humanitarian Support Agency ,Greece,410778,,,Food Distribution,Food,INGO,Greece
+HSA,HSA Humanitarian Support Agency ,Greece,92840.8,,,Operational Support ,Operational Support,INGO,Greece
+HSA,HSA Humanitarian Support Agency ,Greece,104140.8,,,Capacity Building,Site Management Support - SMS,INGO,Greece
 HCIT,HCIT Humanitarian Center for Integration and Tolerance,Serbia,43000,,,Protection,Protection,NGO,Serbia
 HCIT,HCIT Humanitarian Center for Integration and Tolerance,Serbia,121333,,,Food,Food,NGO,Serbia
 Help-Hilfe ,HELP Hilfe zur Selbsthilfe e.V.,Serbia,270000,,,Support to local communities,Support to local communities,INGO,Serbia
-HAS,HSA Humanitarian Support Agency ,Greece,410778,,,Food Distribution,Food,INGO,Greece
-HAS,HSA Humanitarian Support Agency ,Greece,92840.8,,,Operational Support ,Operational Support,INGO,Greece
-HAS,HSA Humanitarian Support Agency ,Greece,104140.8,,,Capacity Building,Site Management Support - SMS,INGO,Greece
 Human Appeal,Human Appeal,Greece,535000,,,"Protection, Child Protection, SGV,Community Services",Protection,INGO,Greece
 ICMC,ICMC International Catholic Migration Commission ,Greece,250000,,,Child Protection,Protection,INGO,Greece
 IMC ,IMC International Medical Corps,Greece,1762680,,,"Protection, SGBV, Durable Solutions, Community Services (communication with communities)",Protection,INGO,Greece
@@ -92,31 +83,40 @@ Hygiene kits
 Hygiene training",WASH,INGO,Greece
 IMC ,IMC International Medical Corps,Greece,673219,,,Operational Support ,Operational Support,INGO,Greece
 INTERSOS,INTERSOS,Serbia,80000,,,Protection,Protection,INGO,Serbia
-IOM ,IOM International Organization for Migration,Regional,6500000,,,Protection,Protection,IOM,Regional
-IOM ,IOM International Organization for Migration,Regional,1000000,,,Shelter and NFIs,Shelter and NFIs,IOM,Regional
-IOM ,IOM International Organization for Migration,Regional,3000000,,,Operational Support,Operational Support,IOM,Regional
-IOM ,IOM International Organization for Migration,Serbia,1200000,,,Protection,Protection,IOM,Serbia
-IOM ,IOM International Organization for Migration,Serbia,100000,,,"Logistics, Telecommunication and Transport","Logistics, Telecommunication and Transport ",IOM,Serbia
-IOM ,IOM International Organization for Migration,Serbia,600000,,,Shelter and Infrastructure,Shelter and NFIs,IOM,Serbia
-IOM ,IOM International Organization for Migration,Greece,21509595.71,,,Protection,Protection,IOM,Greece
-IOM ,IOM International Organization for Migration,Greece,11118263.62,,,Shelter and NFI,Shelter and NFIs,IOM,Greece
-IOM ,IOM International Organization for Migration,Greece,6970000,,,Capacity building,Site Management Support - SMS,IOM,Greece
-IOM ,IOM International Organization for Migration,Croatia,910000,,,Protection,Protection,IOM,Croatia
-IOM ,IOM International Organization for Migration,Croatia,595000,,,Health,Health and Nutrition,IOM,Croatia
-IOM ,IOM International Organization for Migration,Croatia,175000,,,Shelter and Infrastructure,Shelter and NFIs,IOM,Croatia
-IOM ,IOM International Organization for Migration,Croatia,720000,,,Operational Support,Operational Support,IOM,Croatia
-IOM ,IOM International Organization for Migration,Turkey,47000000,,,Protection,Protection,IOM,Turkey
-IOM ,IOM International Organization for Migration,Turkey,1000000,,,Health,Health and Nutrition,IOM,Turkey
-IOM ,IOM International Organization for Migration,Turkey,3000000,,,NFIs,Shelter and NFIs,IOM,Turkey
-IOM ,IOM International Organization for Migration,fYR Macedonia,2040000,,,Protection,Protection,IOM,fYR Macedonia
-IOM ,IOM International Organization for Migration,fYR Macedonia,600000,,,Health,Health and Nutrition,IOM,fYR Macedonia
-IOM ,IOM International Organization for Migration,fYR Macedonia,2900000,,,Shelter,Shelter and NFIs,IOM,fYR Macedonia
-IOM ,IOM International Organization for Migration,fYR Macedonia,60000,,,Health,WASH,IOM,fYR Macedonia
-IOM ,IOM International Organization for Migration,Slovenia,125000,,,Health and Nutrition,Health and Nutrition,IOM,Slovenia
-IOM ,IOM International Organization for Migration,Slovenia,950000,,,Protection,Protection,IOM,Slovenia
-IOM ,IOM International Organization for Migration,Slovenia,55000,,,Shelter and NFIs,Shelter and NFIs,IOM,Slovenia
-IOM ,IOM International Organization for Migration,Slovenia,11000,,,"Logistics, Telecommunication and Transport","Logistics, Telecommunication and Transport ",IOM,Slovenia
-IOM ,IOM International Organization for Migration,Slovenia,79000,,,Operational Support,Operational Support,IOM,Slovenia
+IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,1842701,,,Protection,Protection,NGO,Greece
+IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,2780355,,,Food Distribution and Food Security,Food,NGO,Greece
+IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,105000,,,Core Relief Items and Non-food items,Shelter and NFIs,NGO,Greece
+IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,1502795,,,"Water Supply
+WASH
+Hygiene kits
+Hygiene training",WASH,NGO,Greece
+IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,98900,,,Support to local communities,Support to local communities,NGO,Greece
+IOCC NRC,Apostoli IOCC with Norwegian Church Aid,Greece,665001,,,Operational Support ,Operational Support,NGO,Greece
+IOM,IOM International Organization for Migration,Regional,6500000,,,Protection,Protection,IOM,Regional
+IOM,IOM International Organization for Migration,Regional,1000000,,,Shelter and NFIs,Shelter and NFIs,IOM,Regional
+IOM,IOM International Organization for Migration,Regional,3000000,,,Operational Support,Operational Support,IOM,Regional
+IOM,IOM International Organization for Migration,Serbia,1200000,,,Protection,Protection,IOM,Serbia
+IOM,IOM International Organization for Migration,Serbia,100000,,,"Logistics, Telecommunication and Transport","Logistics, Telecommunication and Transport ",IOM,Serbia
+IOM,IOM International Organization for Migration,Serbia,600000,,,Shelter and Infrastructure,Shelter and NFIs,IOM,Serbia
+IOM,IOM International Organization for Migration,Greece,21509595.71,,,Protection,Protection,IOM,Greece
+IOM,IOM International Organization for Migration,Greece,11118263.62,,,Shelter and NFI,Shelter and NFIs,IOM,Greece
+IOM,IOM International Organization for Migration,Greece,6970000,,,Capacity building,Site Management Support - SMS,IOM,Greece
+IOM,IOM International Organization for Migration,Croatia,910000,,,Protection,Protection,IOM,Croatia
+IOM,IOM International Organization for Migration,Croatia,595000,,,Health,Health and Nutrition,IOM,Croatia
+IOM,IOM International Organization for Migration,Croatia,175000,,,Shelter and Infrastructure,Shelter and NFIs,IOM,Croatia
+IOM,IOM International Organization for Migration,Croatia,720000,,,Operational Support,Operational Support,IOM,Croatia
+IOM,IOM International Organization for Migration,Turkey,47000000,,,Protection,Protection,IOM,Turkey
+IOM,IOM International Organization for Migration,Turkey,1000000,,,Health,Health and Nutrition,IOM,Turkey
+IOM,IOM International Organization for Migration,Turkey,3000000,,,NFIs,Shelter and NFIs,IOM,Turkey
+IOM,IOM International Organization for Migration,Macedonia,2040000,,,Protection,Protection,IOM,Macedonia
+IOM,IOM International Organization for Migration,Macedonia,600000,,,Health,Health and Nutrition,IOM,Macedonia
+IOM,IOM International Organization for Migration,Macedonia,2900000,,,Shelter,Shelter and NFIs,IOM,Macedonia
+IOM,IOM International Organization for Migration,Macedonia,60000,,,Health,WASH,IOM,Macedonia
+IOM,IOM International Organization for Migration,Slovenia,125000,,,Health and Nutrition,Health and Nutrition,IOM,Slovenia
+IOM,IOM International Organization for Migration,Slovenia,950000,,,Protection,Protection,IOM,Slovenia
+IOM,IOM International Organization for Migration,Slovenia,55000,,,Shelter and NFIs,Shelter and NFIs,IOM,Slovenia
+IOM,IOM International Organization for Migration,Slovenia,11000,,,"Logistics, Telecommunication and Transport","Logistics, Telecommunication and Transport ",IOM,Slovenia
+IOM,IOM International Organization for Migration,Slovenia,79000,,,Operational Support,Operational Support,IOM,Slovenia
 IRC ,IRC International Rescue Committee,Greece,5000000,,,"Protection, SGBV",Protection,INGO,Greece
 IRC ,IRC International Rescue Committee,Greece,1300000,,,"Food Distribution
 Cash Assistance for food",Food,INGO,Greece
@@ -130,23 +130,23 @@ ISRAAID,IsraAid,Greece,480456,,,"Protection, Community Services",Protection,INGO
 JRS ,JRS Jesuit Refugee Services,Croatia,109146,,,Protection,Protection,NGO,Croatia
 JRS ,JRS Jesuit Refugee Services,Croatia,57443,,,Operational Support,Operational Support,INGO,Croatia
 KSPM-ERP,KPSM-ERP Integration Centre for Migrant Workers – Ecumenical Refugee Program,Greece,159000,,,Protection,Protection,NGO,Greece
-La Strada,La Strada International ,fYR Macedonia,325974,,,Protection,Protection,INGO,fYR Macedonia
-La Strada,La Strada International ,fYR Macedonia,300666,,,NFIs,Shelter and NFIs,INGO,fYR Macedonia
-La Strada,La Strada International ,fYR Macedonia,50946,,,Hygiene,WASH,INGO,fYR Macedonia
-La Strada,La Strada International ,fYR Macedonia,24000,,,Food Distribution,Food,INGO,fYR Macedonia
-Legis,Legis,fYR Macedonia,238552,,,Food Distribution,Food,NGO,fYR Macedonia
-Legis,Legis,fYR Macedonia,187299,,,NFIs,Shelter and NFIs,NGO,fYR Macedonia
-Legis,Legis,fYR Macedonia,60538,,,Hygiene,WASH,NGO,fYR Macedonia
-Legis,Legis,fYR Macedonia,120000,,,Operational Support,Operational Support,NGO,fYR Macedonia
+La Strada,La Strada International ,Macedonia,325974,,,Protection,Protection,INGO,Macedonia
+La Strada,La Strada International ,Macedonia,300666,,,NFIs,Shelter and NFIs,INGO,Macedonia
+La Strada,La Strada International ,Macedonia,50946,,,Hygiene,WASH,INGO,Macedonia
+La Strada,La Strada International ,Macedonia,24000,,,Food Distribution,Food,INGO,Macedonia
+Legis,Legis,Macedonia,238552,,,Food Distribution,Food,NGO,Macedonia
+Legis,Legis,Macedonia,187299,,,NFIs,Shelter and NFIs,NGO,Macedonia
+Legis,Legis,Macedonia,60538,,,Hygiene,WASH,NGO,Macedonia
+Legis,Legis,Macedonia,120000,,,Operational Support,Operational Support,NGO,Macedonia
 LWB,Libraries without Borders,Greece,259000,,,Child Protection,Protection,INGO,Greece
 LWB,Libraries without Borders,Greece,259000,,,Education,Education,INGO,Greece
-MCIC,Macedonian Center for International Cooperation,fYR Macedonia,84678,,,Shelter and Infrastructure,Shelter and NFIs,NGO,fYR Macedonia
-MCIC,Macedonian Center for International Cooperation,fYR Macedonia,19959,,,Sanitation,WASH,NGO,fYR Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,1080000,,,Food Distribution,Food,NGO,fYR Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,824000,,,Health,Health and Nutrition,NGO,fYR Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,275000,,,NFIs,Shelter and NFIs,NGO,fYR Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,412500,,,Hygiene,WASH,NGO,fYR Macedonia
-Macedonian Red Cross,Macedonian Red Cross,fYR Macedonia,157500,,,Operational Support,Operational Support,NGO,fYR Macedonia
+Macedonian Red Cross,Macedonian Red Cross,Macedonia,1080000,,,Food Distribution,Food,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,Macedonia,824000,,,Health,Health and Nutrition,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,Macedonia,275000,,,NFIs,Shelter and NFIs,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,Macedonia,412500,,,Hygiene,WASH,NGO,Macedonia
+Macedonian Red Cross,Macedonian Red Cross,Macedonia,157500,,,Operational Support,Operational Support,NGO,Macedonia
+MCIC,Macedonian Center for International Cooperation,Macedonia,84678,,,Shelter and Infrastructure,Shelter and NFIs,NGO,Macedonia
+MCIC,Macedonian Center for International Cooperation,Macedonia,19959,,,Sanitation,WASH,NGO,Macedonia
 MDM,MDM Médecins du Monde ,Greece,7000330,,,"Health, Nutrition, HIV",Health and Nutrition,INGO,Greece
 Mercy Corps,Mercy Corps,Greece,1200000,,,"Protection, Child Protection, Community Services",Protection,INGO,Greece
 Mercy Corps,Mercy Corps,Greece,4450000,,,"Food Distribution
@@ -154,26 +154,26 @@ Food Security
 Cash Assistance for food",Food,INGO,Greece
 Mercy Corps,Mercy Corps,Greece,950000,,,"Shelter, Infrastructure, Cash assistance for NFI",Shelter and NFIs,INGO,Greece
 Mercy Corps,Mercy Corps,Greece,340000,,,Operational Support ,Operational Support,INGO,Greece
-Mercy Corps,Mercy Corps,fYR Macedonia,46255,,,Protection,Protection,INGO,fYR Macedonia
-Mercy Corps,Mercy Corps,fYR Macedonia,45032,,,Shelter and NFIs,Shelter and NFIs,INGO,fYR Macedonia
-MYLA ,MYLA Macedonian Young Lawyer’s Association ,fYR Macedonia,583849,,,Protection,Protection,NGO,fYR Macedonia
-NCR,Network For Children's Rights,Greece,505000,,,Community Services,Protection,NGO,Greece
-Network For Children's Rights,Network For Children's Rights,Greece,1203600,,,Education,Education,NGO,Greece
-Network For Children's Rights,Network For Children's Rights,Greece,383000,,,Support to local communities,Support to local communities,NGO,Greece
+Mercy Corps,Mercy Corps,Macedonia,46255,,,Protection,Protection,INGO,Macedonia
+Mercy Corps,Mercy Corps,Macedonia,45032,,,Shelter and NFIs,Shelter and NFIs,INGO,Macedonia
+MYLA ,MYLA Macedonian Young Lawyer’s Association ,Macedonia,583849,,,Protection,Protection,NGO,Macedonia
+Network For Children Rights,Network For Children's Rights,Greece,505000,,,Community Services,Protection,NGO,Greece
+Network For Children Rights,Network For Children's Rights,Greece,1203600,,,Education,Education,NGO,Greece
+Network For Children Rights,Network For Children's Rights,Greece,383000,,,Support to local communities,Support to local communities,NGO,Greece
 NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,366035,,,Community Services (Communication with Communities),Protection,NGO,Greece
 NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,269125,,,Support to local communities,Support to local communities,NGO,Greece
 NOSTOS,NOSTOS ‘Nostos’ Organisation for Social Integration ,Greece,678000,,,Education,Education,NGO,Greece
 NRC,NRC Norwegian Refugee Council ,Greece,1900000,,,Site Management Support ,Site Management Support - SMS,INGO,Greece
 NRC,NRC Norwegian Refugee Council ,Greece,630000,,,Infrastructure Support ,Shelter and NFIs,INGO,Greece
-Nun Kultura,Nun Kultura,fYR Macedonia,150000,,,Food Distribution,Food,NGO,fYR Macedonia
-Nun Kultura,Nun Kultura,fYR Macedonia,80000,,,NFIs,Shelter and NFIs,NGO,fYR Macedonia
-Nun Kultura,Nun Kultura,fYR Macedonia,30000,,,Hygiene,WASH,NGO,fYR Macedonia
+Nun Kultura,Nun Kultura,Macedonia,150000,,,Food Distribution,Food,NGO,Macedonia
+Nun Kultura,Nun Kultura,Macedonia,80000,,,NFIs,Shelter and NFIs,NGO,Macedonia
+Nun Kultura,Nun Kultura,Macedonia,30000,,,Hygiene,WASH,NGO,Macedonia
 OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Regional,190462,,,Protection,Protection,UN,Regional
 OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Serbia,90000,,,Protection,Protection,UN,Serbia
-OHCHR ,OHCHR Office of the High Commissioner for Human Rights,fYR Macedonia,40000,,,Protection,Protection,UN,fYR Macedonia
-Operation Mercy,Operation Mercy,fYR Macedonia,21166,,,Food Distribution,Food,NGO,fYR Macedonia
-Operation Mercy,Operation Mercy,fYR Macedonia,26453,,,NFIs,Shelter and NFIs,NGO,fYR Macedonia
-Operation Mercy,Operation Mercy,fYR Macedonia,37041,,,Infrastructure,Operational Support,NGO,fYR Macedonia
+OHCHR ,OHCHR Office of the High Commissioner for Human Rights,Macedonia,40000,,,Protection,Protection,UN,Macedonia
+Operation Mercy,Operation Mercy,Macedonia,21166,,,Food Distribution,Food,NGO,Macedonia
+Operation Mercy,Operation Mercy,Macedonia,26453,,,NFIs,Shelter and NFIs,NGO,Macedonia
+Operation Mercy,Operation Mercy,Macedonia,37041,,,Infrastructure,Operational Support,NGO,Macedonia
 OXFAM,Oxfam,Greece,1123210,,,"Protection, Legal Assistance, SGBV, Community Services",Protection,INGO,Greece
 OXFAM,Oxfam,Greece,1128850,,,"Household items
 Core Relief Items
@@ -201,10 +201,6 @@ SCI ,SCI Save the Children,Greece,417000,,,Cash assistance for NFI,Shelter and N
 SCI ,SCI Save the Children,Greece,450000,,,"Water supply
 WASH",WASH,INGO,Greece
 SCI ,SCI Save the Children,Croatia,360000,,,Protection,Protection,NGO,Croatia
-SLOGA ,SLOGA Slovenian Development and Humanitarian NGO Platform,Slovenia,139000,,,Operational Support,Operational Support,NGO,Slovenia
-Slovenian Red Cross,Slovenian Red Cross,Slovenia,22000,,,Education,Education,NGO,Slovenia
-Slovenian Red Cross,Slovenian Red Cross,Slovenia,112000,,,Protection,Protection,NGO,Slovenia
-Slovenian Red Cross,Slovenian Red Cross,Slovenia,41000,,,Operational Support,Operational Support,NGO,Slovenia
 SI,Solidarites International,Greece,57500,,,"Food distribution, food security",Food,INGO,Greece
 SI,Solidarites International,Greece,71530,,,"Shelter
 Househould items
@@ -216,6 +212,10 @@ Hygiene training",WASH,INGO,Greece
 SI,Solidarites International,Greece,551941,,,Operational Support,Operational Support,INGO,Greece
 SI,Solidarites International,Greece,83490,,,"Capacity Building, Site Maintainance and nfrastructure",Site Management Support - SMS,INGO,Greece
 SI,Solidarites International,Greece,9545,,,Support to local communities,Support to local communities,INGO,Greece
+SLOGA ,SLOGA Slovenian Development and Humanitarian NGO Platform,Slovenia,139000,,,Operational Support,Operational Support,NGO,Slovenia
+Slovenian Red Cross,Slovenian Red Cross,Slovenia,22000,,,Education,Education,NGO,Slovenia
+Slovenian Red Cross,Slovenian Red Cross,Slovenia,112000,,,Protection,Protection,NGO,Slovenia
+Slovenian Red Cross,Slovenian Red Cross,Slovenia,41000,,,Operational Support,Operational Support,NGO,Slovenia
 Solidarity Now,Solidarity Now,Greece,640000,,,"Protection
 Child Protection
 Community Services",Protection,NGO,Greece
@@ -226,29 +226,29 @@ TWB,Translators without Borders,Greece,700000,,,"Protection, Child Protection, S
 TWB,Translators without Borders,Greece,300000,,,Operational Support,Operational Support,INGO,Greece
 UN Women,UN Women,Serbia,343440,,,Protection,Protection,UN,Serbia
 UN Women,UN Women,Turkey,136000,,,Protection,Protection,UN,Turkey
-UN Women,UN Women,fYR Macedonia,63000,,,SGBV,Protection,UN,fYR Macedonia
-UN Women,UN Women,fYR Macedonia,27000,,,Operational Support,Operational Support,UN,fYR Macedonia
+UN Women,UN Women,Macedonia,63000,,,SGBV,Protection,UN,Macedonia
+UN Women,UN Women,Macedonia,27000,,,Operational Support,Operational Support,UN,Macedonia
 UN Women,UN Women,Turkey,10880,,,Operational Support ,Operational Support,UN,Turkey
 UNDP ,UNDP United Nations Development Programme ,Regional,500000,,,Support to local communities,Support to local communities,UN,Regional
 UNDP ,UNDP United Nations Development Programme ,Serbia,2300000,,,Support to local communities,Support to local communities,UN,Serbia
-UNDP ,UNDP United Nations Development Programme ,fYR Macedonia,3000000,,,Support to local communities,Support to local communities,UN,fYR Macedonia
+UNDP ,UNDP United Nations Development Programme ,Macedonia,3000000,,,Support to local communities,Support to local communities,UN,Macedonia
 UNFPA ,UNFPA United Nations Population Fund,Serbia,100000,,,Protection,Protection,UN,Serbia
 UNFPA ,UNFPA United Nations Population Fund,Serbia,200000,,,Health,Health and Nutrition,UN,Serbia
 UNFPA ,UNFPA United Nations Population Fund,Turkey,2750000,,,Protection,Protection,UN,Turkey
 UNFPA ,UNFPA United Nations Population Fund,Turkey,1750000,,,Health,Health and Nutrition,UN,Turkey
-UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,99534,,,SGBV,Protection,UN,fYR Macedonia
-UNFPA ,UNFPA United Nations Population Fund,fYR Macedonia,84614,,,Health,Health and Nutrition,UN,fYR Macedonia
+UNFPA ,UNFPA United Nations Population Fund,Macedonia,99534,,,SGBV,Protection,UN,Macedonia
+UNFPA ,UNFPA United Nations Population Fund,Macedonia,84614,,,Health,Health and Nutrition,UN,Macedonia
 UNFPA ,UNFPA United Nations Population Fund,Greece,4000000,,,Health ,Health and Nutrition,UN,Greece
 UNFPA ,UNFPA United Nations Population Fund,Greece,2000000,,,"Child Protection, SGBV, Community services",Protection,UN,Greece
 UNHCR ,UNHCR United Nations High Commission for Refugees,Croatia,187082,,,Operational Support,Operational Support,UN,Croatia
 UNHCR ,UNHCR United Nations High Commission for Refugees,Croatia,1170272,,,Protection,Protection,UN,Croatia
 UNHCR ,UNHCR United Nations High Commission for Refugees,Croatia,806082,,,Shelter and Infrastructure,Shelter and NFIs,UN,Croatia
-UNHCR ,UNHCR United Nations High Commission for Refugees,fYR Macedonia,314088,,,Food,Food,UN,fYR Macedonia
-UNHCR ,UNHCR United Nations High Commission for Refugees,fYR Macedonia,480624,,,Health and Nutrition,Health and Nutrition,UN,fYR Macedonia
-UNHCR ,UNHCR United Nations High Commission for Refugees,fYR Macedonia,696410,,,Operational Support,Operational Support,UN,fYR Macedonia
-UNHCR ,UNHCR United Nations High Commission for Refugees,fYR Macedonia,3059812,,,Protection,Protection,UN,fYR Macedonia
-UNHCR ,UNHCR United Nations High Commission for Refugees,fYR Macedonia,1090657,,,Shelter and NFIs,Shelter and NFIs,UN,fYR Macedonia
-UNHCR ,UNHCR United Nations High Commission for Refugees,fYR Macedonia,682599,,,WASH,WASH,UN,fYR Macedonia
+UNHCR ,UNHCR United Nations High Commission for Refugees,Macedonia,314088,,,Food,Food,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commission for Refugees,Macedonia,480624,,,Health and Nutrition,Health and Nutrition,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commission for Refugees,Macedonia,696410,,,Operational Support,Operational Support,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commission for Refugees,Macedonia,3059812,,,Protection,Protection,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commission for Refugees,Macedonia,1090657,,,Shelter and NFIs,Shelter and NFIs,UN,Macedonia
+UNHCR ,UNHCR United Nations High Commission for Refugees,Macedonia,682599,,,WASH,WASH,UN,Macedonia
 UNHCR ,UNHCR United Nations High Commission for Refugees,Greece,1518420,,,Informal education,Education,UN,Greece
 UNHCR ,UNHCR United Nations High Commission for Refugees,Greece,1249165,,,"Food Distribution
 Food Security",Food,UN,Greece
@@ -303,12 +303,12 @@ UNICEF ,UNICEF United Nations Children's Fund  ,Croatia,100000,,,Education,Opera
 UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,5000000,,,Protection,Protection,UN,Turkey
 UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,1500000,,,NFIs,Shelter and NFIs,UN,Turkey
 UNICEF ,UNICEF United Nations Children's Fund  ,Turkey,520000,,,Operational Support,Operational Support,UN,Turkey
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,739246,,,Child Protection,Protection,UN,fYR Macedonia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,50000,,,Education,Education,UN,fYR Macedonia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,327621,,,Health,Health and Nutrition,UN,fYR Macedonia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,767340,,,Shelter and Infrastructure,Shelter and NFIs,UN,fYR Macedonia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,794306,,,WASH,WASH,UN,fYR Macedonia
-UNICEF ,UNICEF United Nations Children's Fund  ,fYR Macedonia,329444,,,Operational Support,Operational Support,UN,fYR Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,Macedonia,739246,,,Child Protection,Protection,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,Macedonia,50000,,,Education,Education,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,Macedonia,327621,,,Health,Health and Nutrition,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,Macedonia,767340,,,Shelter and Infrastructure,Shelter and NFIs,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,Macedonia,794306,,,WASH,WASH,UN,Macedonia
+UNICEF ,UNICEF United Nations Children's Fund  ,Macedonia,329444,,,Operational Support,Operational Support,UN,Macedonia
 UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia,79000,,,Health and Nutrition,Health and Nutrition,UN,Slovenia
 UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia,964062,,,Protection,Protection,UN,Slovenia
 UNICEF ,UNICEF United Nations Children's Fund  ,Slovenia,346938,,,Logistics and Transport,"Logistics, Telecommunication and Transport ",UN,Slovenia
@@ -325,4 +325,4 @@ WAHA ,WAHA Women and Health Alliance International in partnership with Zavod Kro
 WHO ,WHO World Health Organization ,Regional,160000,,,Health ,Health and Nutrition,UN,Regional
 WHO ,WHO World Health Organization ,Serbia,500000,,,Health,Health and Nutrition,UN,Serbia
 WHO ,WHO World Health Organization ,Turkey,2000000,,,Health,Health and Nutrition,UN,Turkey
-WHO ,WHO World Health Organization ,fYR Macedonia,30000,,,Health,Health and Nutrition,UN,fYR Macedonia
+WHO ,WHO World Health Organization ,Macedonia,30000,,,Health,Health and Nutrition,UN,Macedonia
