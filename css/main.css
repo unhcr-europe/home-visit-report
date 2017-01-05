@@ -672,8 +672,8 @@ body.loading {
 .block .inner .inner_cell {
     display:table-cell;
     vertical-align:middle;
-    padding-top:100px;
-    padding-bottom:120px
+    padding-top:50px;
+    padding-bottom:12px
 }
 .block .inner.top_blue_line .body_text {
     padding-top:30px;
